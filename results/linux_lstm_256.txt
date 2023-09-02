@@ -1,0 +1,3536 @@
+int char *start = ns->complet_info->pis_unsigned * num_start;
+
+	/*
+	 * asymch_succed or endr cancell
+ */
+	tree_comp_info(struct current_const *table, struct pore_user *, unsigned long dentime,
+				     struct __cpu_pask_buffer *ib)
+{
+	struct resourch_entry *ubles;
+
+	if (!arch_sighall(str))
+		return 0;
+
+	return strtack(ns, current->cpu_comp_len(vel);
+	list_ver_gitent(&default);
+	if (!cheld->sig_start = CPUNE_MODKEL))
+		return ret;
+
+	if (contion_lock(&start->pid_this->state))
+		return -1;
+	ret = resourch_create_reless(info);
+}
+
+static __notid_set_resouect_changes(struct kablec *lon, ussit_finte *tame)
+{
+	struct key_cpu_cpu_t cmpt_get {
+		signal_strict(pool);
+}
+
+/**
+ * unread_thet meture that is when the disage aftrong task the sighre
+ * @ret are fool the find the we all averte in the we tree to tersel capedue.
+ *
+ *	   002 really the staticy
+ * @work: Gas for error spee the trifier the owner
+ * ind trace in the arruresty cred to all pointer and restart seccond.
+ */
+static int spin_lock(struct padata_struct *tsk)
+{
+	struct audit_context *t;
+
+	if (count) {
+		struct pi_attr *p;
+			work->free = p;
+		cpu_relaye_thew_handly(current->sym_comm chan_cpu_state, SIGCHOD_MAX_HETAIT_LIZE, &worker->pid = NULL, p->refs->work);
+		ret = set->fset_mm_varue;
+		case PID_PEY_PTR_UNPE:
+			cpu_rebuout_param_end((param));
+			if (!handler == restorl_bit_cpu)
+			return -ENOMEM;
+		kmingle(current->timent);
+				new = tr->relock->sec_func(corst_cond_hount);
+			break;
+		}
+	}
+
+	if (audit_fleenum > new_sysctl_size == PIMT_AP_RERINT, &mid, tsk)
+		goto out;
+
+		ret = pmentine_cpu(ctr, flags);
+		if (!in)
+			bool = -EINVAL;
+			break;
+		break;
+		case AUDIT_ONCO_SITIFTORUS:
+		if (km->list_exp_timpling()) {
+			/* current in to the pid_of the regid a may and by interate ty
+			 * the task the resuble sublicted otherres an stare
+ * @work worker.  Cunder work_top()) {
+		 * Note the lace a constirn not the ne deevent of lock the set must handle in @threads the return the futex executed on changer.
+	 */
+		struct attrs_state *size;
+	}
+
+	/*
+	 * Reque.   whis weat:
+	 */
+	if (unlikely(&end_vail)(&falt)) {
+		return module_info(nim);
+		les = 0644;
+		if (!info)
+			return ret;
+	}
+
+	/* Whis the perfor is the offier functior filter value to reaning the for chat
+	 * use start ore
+	 * interent of the a destrict with ier, struct section should in will chandel the
+	 * deding to all hereaped beent from traces.
+	 */
+	while -EINVAL
+		if (ret < 0)
+		return new;
+	if (!args[pol_toxplet(wq)) {
+		ret = 0;
+			if (get) {
+				spin_lock(&listers, truget_time_type);
+			if (ret)
+			ret = -EPONE_SET:
+				break;
+		}
+	}
+	size_t ns = true;
+	return NULL;
+}
+
+static inut kamp_infoue_module_struct size, struct seq_set_moduce *scf_task_struct *paraming;
+
+	/* Dasce do the list the reuling to scall.
+ */
+static int signed_cal_parame_sigate_dent;
+	struct pr_stack_user *arg;
+
+	/*
+	 * The returns conter to leal that surle must )
+	 */
+	const char *name d, orter;
+
+	/*
+	 * We are its action to retor task to bo vinitifier to current the are denting
+		 * task signy to on or note and buffer */
+		had_unlock();
+
+		return (count);
+		if (start)
+			sec_static_unsigned(&nem->lock);
+		return ERR_ON_ONCE(struct size, 0, blist);
+			new = proold_poold(not);
+		leccum = &user_namespace);
+		sechdr(startimed_true);
+				rext;
+						conto = IS_ONCE(kcov);
+			return 0;
+	}
+	}
+
+	return ret;
+}
+
+void lock_mm_kthread(struct kernel_mod_unsigne *nam,
+			         struct complen_sighe *p)
+{
+	struct firent *p;
+
+	context->siginfo = proc_dobj_signal;
+	if ((kfries_to_flock_inloc(&dofter_call_addr), &haddler);
+	fs = cpuhp_startly_cpu_stoppion(t);
+	if (ret < 0)
+		return -EINVAL;
+<END>tasklist_locked_mutex();
+	return 0;
+}
+
+/*
+ *                      TRACENDING in of the resource will hotplication
+ *	NULL or is return longrown syscald on the function.
+ */
+static int put_set_pams(struct kernel_table *tark,
+		       struct cpu_ptate *task,
+		char *ack)
+{
+	action = tsk->siglack;
+	if (!sp->parent) {
+		break;
+		smp = task_state_enots(&ead_val);
+		return size;
+
+		return 0;
+	}
+
+	return ret;
+}
+
+static int gid_delemate_remorte(struct file *proc, struct thread_cpu *lead, void **pind_p)
+{
+	long data = task_signal(ker, start, ncpu);
+	return 0;
+}
+
+/**
+ * cpu_cpu_handel_call_unit_call_peccors to resource
+ * waiter was the bitions and with up the maker while the stack the resction
+ * @p->nemby errons a cpu and this resy.call is allockded with the or queue value refore
+ * @buffer: an IN_ERRULT_OP_INER(CF_state() if a context of with the parent successian scopion.
+ */
+static struct task_struct *cpump_struct *kpid;
+static struct cpu_flush *mpy = { VEFING;
+
+	if (KERN_ON_ONCE(tarker))
+		break;
+
+	/*
+	 * The caller with and the updation.
+	 */
+	if (context->pachet_fsts == NULL)
+		return 0;
+
+	fir = (unsigned long flags->signal);
+}
+
+static struct file_mask_resset_b_format_start(unsigned int statt);
+
+#ifdef CONFIG_ARC_LOSK_STATP
+#ifdef SCOC_MEDTOCP_STACK */
+
+#ifdef CONFIG_APRR_COCK_TAGP
+	cont current_cpu_parate(cpu, struct key_page *);
+EXPORT_SYMBOL_GPL(task_cpu, that_mut_unsigned);
+
+/**
+ * infocess_worker_start resource attray task of size time pace
+ *
+ * @addr: defirent and freed when the calls is kernel
+ * @can: The not work read of the lock be notifier of the reles
+ * @val depared cpu is not */
+	dead_module = {
+		.extra1 = &pasel_inode,
+	.errom = proc_dogingid_rcur,
+}
+EXPORT_SELLOM_OMP_AULL(task_struct task_signals_t *p)
+{
+	struct task_struct *p);
+	if (ally i+= (fmm_attrs[i].state && defers_pancepior)
+		return 0;
+	for (u32 + 1;
+
+	If (old_init context_ns(work->work->rproced_mutex));
+
+	fleak_senchy(&audit_context_cpus_clarst_chang, cpu, buf);
+	return 0;
+}
+
+/**
+ * kernel_work_notes_cred_mask - the or mode whis trace the file SIGQ_VALD */
+static int retion_kerobus_each_work_start_pate *module_mode;
+
+/* Rely we read which for and the time the waiters the relenftice
+ * @werk: we groupted with must ot sumpprong't file
+ *	@ptr: PP_PR-EPE syscall.
+ *
+ * The subffure size int it struct for is from the sicalls
+ * child a                             task betore it the onser contention.
+ *
+ * Return the tipe to in the buffer to relown is not
+ * the list in audit context not with the task to secciln ascaning as nead be when is not the ranueds
+ * is not and ond is name if the function suction
+ * @p: lock the processable of the set byfine detime
+ * @enf: and restor unsource the with the user the stopens
+ * @signall: and a the cremat the baf used offier @thel the will in ope, the caperister
+ * @struptid: Call conter the used may should call
+ * audit uver before the audit_task_reser context.
+ */
+
+/* Ad and the module in and struct to whe we to and error pool.
+ */
+
+static struct audit_namessuce *take;
+
+struct mutex_unlock_trace
+{
+	struct patask_lown_t *ppron = 0;
+	/* Allow held cpu has Ald as for requeues to
+	 * kprobe of the resource wait of the mas allocked onit and resoupted to it for buffer
+	 * the chacking bit the doing showe
+	 * the parates for mighan schedule process in the diver and paching to the struct function
+		 * the changer CPU arring the task SYSCEL on the newes which
+	 * pos it not on released data shares and the signal atorted not
+	 * interray is before op callented state
+	 * the filse, showes are are if the oftion flags rest const the pencorting
+	 * in the singlaw the workqueue for and be case @wq to an users the called
+		 * the user new this first delungrent for DUMC_STACT_SYSCOMP
+	 * buf requeue CPU dake, it has has create instact and the tryper has
+		                                 '                                                                                          | NOTUINT_TORUBITIT_ONFILE)
+#ifdef CONFIG_SIGNTHMACK
+	/*
+	 * The -ENOENTICTE on the bufter inter wait
+ * the current a to should not the name softing thread.
+ *
+ * Molly wait attrs the lage @ttr be of notos in the notifier for
+	 * xitally called wake to runure the simain allocation
+ * @this hard */
+#ifdef CONFIG_MOTPFOUTER_LACCH_MAMERNONT
+<END>
+ * arg_same_process test conting item this state watch and and If the reluared for the called before.
+ *	 */
+<END>new_init == this_call_resource(atction);
+	if (ount)
+		return tr;
+
+	if (ret > 0,
+			list_flags:
+						                                                                                                      N start bat requeued not wath work the orce socklis
+	 * @pid the NULL is allocated.
+ */
+work_start_spinit(char *semmang, int d) {
+	struct padatas_int *amp;
+	struct pid * HUTE_ALDOUTI_FITE_LIGN;
+#ifdef CONFIG_MAND_SYSCALIS
+static int fort_key_complet_mash(struct attrint_sig_node *= buffer, char *ptist,
+				      const struct ktrace *max, buf *lint)
+{
+	struct cpu_set_t *pade = current;
+		if (workqueue = AUDIT_OZE(keyment_entore)))
+			if (iter->gid, &pid_user_ns())
+			return -EFAULT;
+		/*
+		 * This call called thes is the user REMOBL_EXMATER_STq owner if the are to the notifier the herped
+		 * @infory an a size other the context of the
+		 * this in the readich to stop the called task
+	 * a watch the fuiled to be need the queue the are avain this alvals sable watch
+ *	@blok: the lecad */
+	static_sate = AP_INV_LINTER;
+	if (sizelof(unsigned long))
+		return -ENAGE_WALT;
+	if (!signal->fals & 0)
+			return 0;
+
+	return err;
+}
+
+/**
+ * chack_lock_pid_note_set() on the parent kernel and the marant on a signal doop alw @work umave signal.  Vend and audit to the competion ato of the we the function and the (TIDKTREC_MPACED.  undirned the sable the pid notifier losk
+ * 1 with the the to the release caller_kpine_file
+ * @cans: Sinuling just on op earsh of struct pwargid and compation wakes is context in tasker
+ * mention of the rey it mention the must requeues
+ * @nt: If the first the softing evenc gitable */
+static void sysfor_child_nloc(struct task_struct *ther, this *cop, u32 struct *mod)
+{
+	struct kthread_a get_unsound *p;
+	int argous_cred;
+	struct aserq_char *info;
+	currne-> WORK_RESY;
+	return -EFRECTL;
+	context->comm_audit_resource;
+	return;
+}
+
+static int module_init(context_commat_otiferon_kernel_key)
+{
+	/* Allo handle: whench for mutex by the function the sage by restart bet the requiued we
+	 *  keyper-aty is the rains a valu value seccomp a masher and
+	 * the event only.
+ */
+static int take_state(struct namestruct *the *)
+{
+	return pr_pid(vi_info, cpumansize);
+
+	bool writh_count(tr);
+	if (!data)
+		break;
+
+	wait_task_stract(current, new_prist, NULL);
+	if (!(sig[denab)) {
+		struct tasks = workqueue_user_entry = URCH_ERDETIONT_NEQ;
+		return 0;
+
+	/* War truer can cpu be NUIL
+		 * alloceds to at thid the exit read_reson() code bet the
+ * audit module work task mimitnly all wathed
+		 * for entry or not a fal is
+	 * the notifier and the mutex futex the waiter the context allabe the section of WAGNIN_DISY podiver,
+	 * and lead sing kernel requeues the notifier entring the ker
+	 * we conter the max syscall called. Ator hal file
+		 * anit and bance of thread
+	 * section are not and bicainit to all to be off void
+ * the called insert to read to relection it bit
+	 * on functict on the code and it the work in allion and info with the filter in in the statex is are notifier can to the or calle we lock the inter
+	 *       It to the theser ince ars the the new have the struct task the seaged workers.
+	 */
+	if (cred->user_ns)
+		return -EFAULT;
+
+	return 0;
+}
+
+static void p_inablead_probe(struct complinat *info, int ip) {
+		/*
+		 * the kernel should all of in is the sucker of task.
+			 */
+			if (this->pp_deltabe && cap & !list_free_nsemspace(ret);
+				flags |= re_set);
+			break;
+	}
+
+	return -EFAULT;
+
+	return 0;
+}
+
+static poid nr_lock_ingsable_task(struct current_size_t *sk)
+{
+	struct cpu_ide_p res = kimp_gote_set_t pagad = {
+		.data		= &creat_init(&work->pool_data.n);
+		if (cpu_state_filss &
+			     &tracepingle_irq_pristed(thil_sitele->list)) {
+					context->come_forter = state;
+			mod->lock = arg;
+				return 0;
+			}
+
+			if (!p) {
+					pr_fsame(task_list);
+				if (!probes_compate_ralocel_node)
+									return;
+				break;
+				cpus_unsercess(upion_signals_enms, for);
+			}
+
+				break;
+			ret = -ENOMEM;
+				context->sipenting;
+						int get_pargat);
+				return -EINVAL;
+		}
+		case PF_STING_MLABED:
+		if (param, task_table(&t->kprobe_matex))
+			roto ret;
+	}
+
+	if (!err)
+
+		probe_audit_mode(mm, 1);
+	return ret;
+
+	for (uid = type; i++)
+		return -ENOMEM | !ret;
+	}
+
+	if (!res->process)
+		return NULL;
+}
+
+#elif
+/* Cpur */
+	struct cpumest_restarl *sk_pargstare = {
+		fir_task_paramate(cpu);
+	if (!ret)
+			audit_log_func(&info->sig_signal);
+		if (i = 0;
+			kcov_butfs_for_emp(context);
+		mod->old = 0;
+		struct workerr_info;
+		cont = size_ptr(cpu_pate, buffer, flags);
+		if (contely_first(current))
+				return -ENOMRM;
+			bleak;
+			return -ENOMEM;
+		}
+		}
+}
+
+static void task_context(chint, unsigned long watch_flags)
+{
+	struct resloce *skchemp_count_inter;
+
+	if (!charnep >= NULL)
+		return -EINVAL;
+
+	/*
+	 * The wimect it *manger */
+	lock_sead_call_size(tsk);
+		len = set_tan_lock(struct, new_start, cpu, id);
+		cpu_proc_opespace_long_forger(connext_algs);
+		return NULL;
+}
+
+static void __static_commat_state(stats unsuged, unsigned int fail)
+{
+	but_param_start(mm, &tsk->filter.charg);
+	return;
+}
+
+static inline void tophig_struct *module_kprobe(inode, long ond_pinve, struct trace_retrouttine)
+{
+	struct attratisize_resing_unint *statec,
+		.conate = 0, 'n;
+		set_cpus_enare_t preesprobes;
+
+		if (!cpu_state_cpu(cpu))
+			return -EPERT;
+			if (entry = 0 && char >= filsed copy_set_signal_init(task, &timer),
+					       sizeof(umask)y_state_data_return(p));
+				ret = (unsigned long);
+			contixt_lock(&thread_work);
+			} else {
+				if (op->pr_fils & start &&
+			     !new_dobount)
+				return -EINVAL;
+			}
+			break;
+			return 0;
+	}
+
+	return fls_compater_up_cpu(attrse, seccops_node();
+		context->cur_curict;
+		if ((nedr == retval) && !tstate >& NOULD_SET_MAST_NOTE)
+			return -EFAULL;
+			fale_time(t size, perting_danget);
+			/* indint and stalt stould in the its and iter sable
+		 * called */
+		contask struct atst_starts_ns_processs_state = {
+			      = csump_sturt, 0, sizeof(struct newnoptiale, lock);
+			else if (pr_tosted())
+				if (end == kullinged_complet(task->lock))
+					return -EINVAL;
+			gro_proc_atdread(&n);
+				return (info->signal);
+			if (notify_cpu(cpu_mask);
+				goto out;
+
+		/* Whil bit if o 0;
+			 */
+			task_tree(&kprobe_batch_metex);
+			if (woiter) {
+			pr_enr = -ENONG;
+					if (site == resimized && true->for_buf = kthread_rod)
+					doto_out_unsigned(cpu, "signal",
+						       info->send_state, chas,
+					const count, entry = info->info_id_struct tapklint_relage);
+		ret = return;
+		if (!wait_num_extre(cred) != AUDIT_TIME_ENCED) {
+			unid = seq_countext, cred = task_size, sig_size_t, size_t last, .entry, &tsk->wq_file, sizeof(static_magm));
+			if (signally >= 0)
+				return {
+			if (i = arg->b_opter);
+			koff_cpu_then_init(&po->lock);
+				if (WARN_ON_ON(!siglone_flags))
+				tost = current;
+			}
+		}
+		break;
+	cfr_perce_func_info(struct tral_sys_list);
+		task_struct_module_notifie(count);
+		if (ret)
+			return 0;
+	} else {
+		struct audit_context *t = 0;
+		if (maxklet_typevers_module)
+			return -EINVAL;
+		preentry(destate, attrs, struct pid, pid_p);
+	}
+
+	if (!sigpend_ressore_sigset_ts_user(parem, AUDIT_SYS_MADL))
+		return 0; }
+
+	struct cpump_fster *dead;
+	struct __dispart *p;
+
+	struct poid *fals;
+
+	if (audit_func(&info->list_type) << 1);
+	return ret;
+
+	return ERR_PISET_NOTE;
+	[CFOUF_ONFINER(k8);
+	futex_hash_call_unlock(thread_cpu);
+
+	/* If futex allocate with nowen't deseming task there calle
+ *
+ * Return mutex (CON-IN_SYSCOL RNALE on on free return and list, any it only exit doing
+ * @execpifters bus conming a start to uprenting
+ * there resourcess to probe and the size watched to set immoulle.
+ *
+ * The callock ff access, is alloc the persetion to be before forme is is sublecation
+ * and work with a station the success this be the function are evernel of the aren a on the work requeued buffers wask
+ * instart condert will file is is be offerent ristation
+ * @prover_code_frunc exit the handle scheduling for tasklist and
+ * and and in avers interation is anode.
+	 */
+	if (file_cpumam_start(, cpu_attr, &info_pare, cpu, cpu_ptr_wait));
+	old_set = old;
+	struct resource_static = state_traes_size = t->funchd_type_nr_parampares;
+	if (long task_inode->task_cpu_buf(enct)) {
+		/*
+		 * Sead field the kernel disable to action the CPU head
+		 * statch the called inceure the chanced to signal is
+			 * struct for the signal count relay
+		 * and secck parabless
+		 * for calling sincel stace in the list, so the in ond whilh interuard kernel,
+	 * threas, not success */
+		retult audit_pid_map(old, &met->seccommp);
+		if (!(mod->unsignl = false) {
+				ret = fcrunt_delore_addres(&call_all_syst, &file);
+				defr_function_param_table();
+				ffree(tmp->max);
+			pr_erc("work->dead_set);
+			pr_curent_lock(&shed_flush_restar);
+				pr_sypts(&ptrace_list);
+
+			if ((coved != &info->set_thresiond),
+					     st_parent_pid) {
+				ret = -EINVAL;
+				return ret;
+			ret = get_usser_cpu(chank_thread();
+					struct dod_attry(buf_struct call_cpu);
+			ret = -EINVAL;
+			volide_end = weider;
+				new_sumpynct_start();
+				if (!state->re_site, &lent) {
+				ret = PR_ENORE(!tount);
+			}
+			} erse if (struct buffer = 0)
+				context = conser_baff(struct, prote_parget_memmag);
+			return -EANVAL;
+		}
+		return ERR_ONCE(ind_relobing();
+		}
+		return 0;
+	}
+
+	return ret;
+}
+
+#ifdef CONFIG_COMP_AUDST_TATEC_PRONT_SYSCALD(int, signed_tsk));
+
+/* sched to function and scctore it not kerner sinct of @finit is state to the numbe */
+	inlock = pid_sects;
+
+	cpu_hegpable();
+
+	/* synction are clan't be a readice the user on the logn faln the thread. We dewore
+	 * on creace file rever */
+	work_pid(put_enarged, signal->spachlock);
+	if (!marker_signal(&notify_mav) && !(unsigned long || signal_tyse == CTH(whent))
+		return audit_unlock(tr_mode);
+	if (conter_attr())
+		return 0;
+}
+EXPORT_SYMBOL_GPL(perren_call_cred();
+	if (!next)
+		return -EINVAL;
+	int ret;
+	/* And are and all sonded size.  from exinged rust or destert of the workhecars
+ */
+static int clex_set om_chean_reles(cpu, up_cpu_new_pasmp, struct unsigned *nser,
+				          const struct kset buf_shobj_work *work, work, struct module **poo)
+{
+	struct resory_subcho *part = t->to_gid_ns;
+}
+
+static void vm_file(ret)
+{
+	struct module_wait_unlock *bjyng * task;
+
+	/*
+	 * Return the note before */
+		free(rcu_state, __user_ns);
+		sigate_type = falch_context(p, &max->novic_current_list);
+		workqueue_tree_param(ns, &rele, &instrs);
+	}
+	if (free(stack_internate(stact_init_user_ns(pid), inode) */
+	if (unlokely(!waiter->find_entry))
+		return -EINVAL;
+
+	if (audit_filter >= exit_files ||
+		      (context->rouns_mask && context->task_ture_torter));
+		audit_releater(note);
+		mutex_unlock(&tree->list, data);
+		return -EINVALE;
+	}
+	return 0;
+}
+
+#ifdef CONFIG_HADCOUT_STCOUK
+
+/*
+ *                                                                                                                                 (size = (*cash_entry, info->lock)) {
+		tmp->proc_descafe();
+	}
+}
+
+SYSCALL_DEFINEIT(audit_commad_ab, "%scous. */
+static void *padea_kablectrog int_set_pid_ns(struct resource *new_pool)
+{
+	struct struct paren *act;
+	int ret;
+
+	/* unlow is for call & For counteun if the cpumanizion sost it has uner and the SYSC_LUNTER_SYSCE_PORE_PORKER.
+	 * value lock flocking dotering the value state and with write sof fall wait bet while pi_statecres
+	 * the thread the are mode anst on this worker unsert the valies.
+ */
+void __task_free(struct user_notifier *chun, struct cpu_t current int *spare,
+				   struct to_detrobe_entry *tent,
+			   const struct static_int *pid, pid_t *pend, loon threps)
+{
+	/* Neternanding the to signation any
+	 * reandle we carentall .for permize it is not of alloct
+	 * sysctl_lock() in lengiting trace
+ * by the that timerato can on file by mapstate for caray thright in the initialion).
+ */
+
+/* inaved wathen intersion a syncling start doits a seging a write.
+ * @task: the zoinftion
+ *
+ * Mollea system the seccor if the pointed conter to recoudd the relown the secrunit the mask
+ * @cpus: NUM in -1->nopt.
+ */
+void parach_work(struct done_work *count)
+{
+	lockpreal_data;
+	if (complet_state_process)
+		return -EINVAL;
+	if (pathr->retarn_set == AUDIT_LIT_OPARERIZE)
+		struct col_lobe(&complate.logers, data);
+	for (i;
+		sect_ver(work, func, ner_ptr);
+	if (ret)
+		return ER_PID(sypport_doverey_data, current, returner, is, sizeof(struct pagh)
+		pr_err("TRACED onlinzed iteriby called and resore %s: %s NUSSERCOP_UNS_STASK);
+
+	if (ret == eurren, GADD_STATE_CLAG_SESIZE) && ((onk)) {
+		case PEX_FLAG_ORFUSE,
+		.starturn proc_faren					mame_orter;
+	}
+}
+ *           for the ald credert hash wore work are unalinged
+ * out:
+ * the stack handler the user has executions.  C lese dote to the audit_lock, an the rased book torke
+ *
+ * work ptaticy spoc the process of the module info the sumbore callact in the function
+ * on it check of exit and with lase the state state in a calls to to the intersed before
+ * will seculd execution a to the user supptristed be used mapse of error procemstack.
+ */
+void __ideall_toreleoup_timer_files(module module, out,
+		struct tock_struct *key)
+{
+	ret = f->sighend;
+	info->id_propeds_file = n->wait_unserunc_den;
+	struct argiount = oold_compole_handler = __task_send(&pool, pid_file_info);
+		task_pid_notify_pid(tr->rule, len_WAPE_PTR_EID_INSIGE);
+	if (!pr_epast_mave() != (unsigned long))
+		return 0;
+	conteruen_hard;
+	struct cgr_funcl_cpu *parent = kprobe_attrs[].flen + last->sp_list;
+	scfd->func = (unsogned long);
+
+	/* Whaig not is in the signal (CF] is free, the laceld for manged and soctior work an watick of worker
+	 * struct accopation, proves to flags a requeues the should and the section in there detup the
+	 * arco the with and while kernel called entry is all wait of we mest has loaduen.
+	 */
+	mend(t);
+
+	klige_flags_flags(&numal_set_cpu);
+	/* In one any dope has a requeued work is a othing constore the not */
+	mutex_unlock(&reginter_ns_error);
+	return ret;
+}
+
+static struct copploc_task_struct *m;
+
+	/* Int is not devens in the lockdo rewain of - Compline in a halls.
+ *
+ * Scase allow_struct: on structures audit_all_callen() worker sance value if the buffer struct offer
+ * 4 context of the pid in the signall time read thun the scace get event the @pacase,
+ * suncel will the state work */
+	**dect = pid;
+	if (prevents != start, &t->signal->boffile || MONT_IN_ONCE_NALIG != get_flish && ALTIST_FFAG_SIGVEL) && != 's) {
+		/* The kernel preessor has static initler it @probes and aram resourmed
+		 * the return do structide malked not bain
+	 */
+	cpu_mutex_table_one(char);
+	else
+		case PR_KIT_LOTEV_STR_SCOF :
+		netry = user_flags;
+		}
+		}
+	}
+
+	ret = seccomm_info(struct_utore_struct *id, if) {
+	struct static_cpum *maxk;
+	struct kprole_module *flat;
+
+	if (pase == AUDIT_AMOD_WASK_CROP_ARLER))
+		return -EINVAL;
+
+	conse AUDIT_INTIR(set_destate, &end_cpu, const syscbled_onfor);
+
+	/* Beccur paring the entry allowes for the user not and module canse to exectiag
+	 * when use comest the some we gis here notiver
+ *		 */
+		buf->ex_tyme = 0;
+
+	lock_param_ond(goot);
+	if (new_ktryeses &&deseq_pase,
+		                              |                                                                                                                                                      statch chan be ussart completions and are and buf return the nim caputed */
+	if (scffl_spming) {
+		pr_err("undut state size;
+			context->node = proc_chan_cpu_stible_active_newvable",
+		.maxlen		= sizeof(init, proc_pable_mark, attr, &topt);
+		if (len)
+			erct = st_pid = (unsigned long);
+		syp_ontercur(current, data);
+		set_stack_handle();
+
+		worker->current;
+		sets = mod->rulleds = &tsk->list_entry);
+		kfile(sig->sec_thread_compat_uid_thres, task.signal_syspalls_god_ugid);
+	}
+
+	/* For boon with a returnend the futex pathing registern to on the
+ * - users substers must spronts while deaddre, the lits or check, and to check is and pointed
+ *	 */
+	if (contine_long ||
+		       || !char->tyme == 1)
+		return ret;
+	module args = probe_holdex_lown_lock();
+
+	list_destate_signal(&sigid);
+	if (!cpuhp_pid_entry(&kprocel_ore))
+		return retval;
+}
+
+static vid __userns *suid_extent_tore_valiceds(unsigned long *list)
+{
+	struct cpu_state + i; *nd->puid_vard;
+	return audit_cpu_stoppid(p, );
+	/* erch wekchis.
+	 */
+	if (!file_resory_work(pm))
+		read_aud(argr);
+	return 0;
+}
+
+static int cpu_user_ns(current *sig)
+{
+	void *paid = { };
+
+	/* Nome usermand can be compe the function
+ * unsigned that that audit in the section.
+	 */
+	if (context->task_buffer = 0);
+
+	return 0;
+
+	case PAG_LOP_ENDIVE:
+	codelt_t = kmp;
+
+	pr_enate(cred->sen_losk);
+	return 0;
+}
+
+/**
+ * queue_to_strace(); WiND is call to the pocomation hall mas intersels function and is exit.
+ *
+ * This be newer errord a deranitifier address to scok to structure to the curantection
+ * @data_li_start (sigsending counting and of the kernel int it exit.
+<END> */
+static bool audit_do_pointer(start cpu_stort *t, chunk *map)
+{
+	struct attrspt_static *state;
+<END>unsigned long addr = REP_INSET;
+	unsigned long fals;
+	if (ret < 0) {
+		return -EFAULT;
+	}
+	return ret;
+
+	size. +
+						      (context->tailter_cod, & audit_set_complet, sizeof(den)))
+				preane_tmp;
+				return -ENOMEM;
+				if (WAG_TASK_ANSTY_SECT)
+				* CPU				task_list_pid(int, 1);
+			free->probes = mal->cpu;
+					*pages = SEOCTR_OFIT_PINE_UNIT;
+				context->entry_notes = 0;
+			get_for_inder_ots(rsimpute);
+			cpumask = NULL;
+		}
+		if (unlikerr(isize) <= 0) {
+						struct netmore_tore_read_ent = task_perter_seg(cred, &strmask_size);
+			if (!attr->wq->cpu_state)
+					return -1;
+	}
+
+		if (tsk) {
+			WARN_ON_ONCE(kexe->block || Allony_errors = NLLOS) {
+				pr_paran("fork ", context a net, init net && sizeof(user_ns, sighen->sa.name) && wait_code && chunk_pates_processor(cpu))
+					return 0;
+			/* Nut save the kprobe as file the desting any andry.
+			 */
+			if (cpu_ol_tast_cpus(cpu),
+					     struct m->back);
+			if (*const == size) {
+			struct cpu_read_t *kis = kbuff;
+		}
+	}
+<END>if (i = 0;
+	return 0;
+}
+
+static int resource_core_file_resy = kpromi_sections_set_tomi]
+{
+	struct walk_struct struct *ask;
+	struct user_namespace *pade = pr_cpu(struct meg_fore_restart vold, chan *arg);
+
+	return set_fdec_cpus_start_pool(struct ksigned_long);
+	if (res->resource && while == SIG_SIGTENT)
+		return;
+
+	if (audit_gid(&audit_flags)[ULL, NULL))
+		return 0;
+}
+
+/*
+ * Thet coplent in user suve point task comenting resource (signed modules)
+ */
+static void _user_wait(&current_head)
+{
+<END>out_unlock_relay_reserse(struct state_requve *sig,
+				   struct call_struct *addr, user *, pool_log_table)
+{
+	if (! != 0) {
+		if (unlikely(extendingled - unchemaskly(current)) {
+			defrne = -ENOMEM;
+			lockup_lock_info, ider;
+				}
+		}
+		}
+		return 0;
+	}
+
+#ifdef CONFIG_SERCTR
+	struct resoure_t rule *len = 0;
+
+	if (!task_struct && current->field_write)
+		->tryest = 0;
+	news = relsen;
+	if (audit_new_siming) {
+		return 0;
+}
+EXPORT_SYMBOL(parcap_worker);
+
+/**
+ * kthread_pather_canaul.h_flun - Que a for tsk be kernel and the futex to the seming a this kprobes the process to to kern an succkly the will /                                                                                         (verioust().s NF_STACKEND_IGCHL,
+					                   0 < 1004 \n");
+
+/*
+ * The must be called a cpus to the waiter with completion is update, to !uspare the
+ * resultt the module of buffer module, this for notifier
+ * @kqueue: to atoin entrue the map reticase for a syscels the returns the the
+	 * intersiche data/devained is state inter of new resurces a conture the lint and kernel the kernel initing.
+ *
+ * In t coment for should be value in lenation .wast procasess.
+ */
+static int crep_reser_now(struct task_struct *t, cpu *ptr_watch *cundr)
+{
+	struct kprobe *pt = table;
+	struct row_init *handler_namenal_info->buffer = arg;
+	if ((new <= unding) {
+		unsigned_lock_context(t);
+		contine_oot(tast, tr_phdr[wiarracks++uping.data.s |& len[(ond notex).worker), jenting < 0)
+			return -EINVAL;
+		return 0;
+	}
+	if (!signal->firct | __ORD_SETGING)
+		return -EMASCCH;
+	if (ttrace >= ns->filter > -EINVAL) {
+		if (ret)
+			break;
+		return 0;
+}
+
+/**
+ * kech_stop_info->lock, old it the len of the resory for not and res@beffier */
+	/* jump lock create_read kpone which notifier for there and proned the core and here and ore not.
+ */
+static void flags_timen_retory_onters(struct task_struct *tsk)
+{
+	struct p = kprint_cpus_probe_allay(struct kprobe_attrump *);
+	vead = ktry_nown(struct) {
+		struct key *kprobe *hask;
+		do_matchd(&smack_putset_op(stst, SCH_KERNTL);
+		if (unlikely(&worker->work)) {
+			context->siglint = tarkerser_notify(skin);
+			return ret;
+		}
+	}
+
+	/* Alls to check cancelting_call be contere the selfice in arr suncel by and which the from to frie the file
+ *	befreming entree exec the function so
+ * @tofp: Pute to kernel and bleck when the callers */
+	if (!arg)
+		unsoup_funct */
+	current->mp_cpu(thim_fulte);
+	return 0;
+}
+
+static void spoc_rebunces(struct cpu *struct *parate_alig)
+{
+	struct skbbuccomp_attr *atc;
+
+	if (!trees_len_mark)
+		return -EDEMAM;
+	struct task_statch(task, cpu);
+	struct test_start *entry;
+	ctar = exec_fins_pid = 1;
+	struct worker *p;
+	struct vi_action *k;
+
+	if (!WARN_OR_ONCE(!imool_sighand)
+		return reloor_wait;
+}
+
+static int sig_log_git(const char *info)
+{
+	struct atomic_read_cheal __wake_f allowate = tasks_state_set_ne(struct ucounts_attr *task)
+{
+	return ER_ONC(attr, 0, sizeof();
+
+	audit_log_formert(p);
+
+	ret = strrec(unsigned long);
+}
+EXPORT_SYMBOL_GPL(proc_dountval);
+
+void deach_file_tmat(argn, struct task_struct *trags,
+			unsigned long *omparva,
+			      struct point *pood)
+{
+	int ret;
+	unsigned long long p;
+}
+
+#ifdef CONFIG_SMABLEG_CODISGS
+/*
+ * Allocation stats new to we module callable
+ * @size work all of to change */
+	if (puhd_lage || goo_no_p_state(sp, &name) && char > !addr)
+		return -EINVAL;
+	ptr->t_context = kcount, NULL;
+	cpump_check_entry_thread();
+	if (!struct find_ns && (pages & CLAGE_SEZERNOUN))
+		return audit_get_up_state(struct read, 1, 0, &buf->pa->si_ccu);
+
+	/*
+	 * If of the kernen to be currently be errorr process ptracedop.  @wq:
+	 * Clease deseredely in worker valier delatims ingation this of in aring to resource */
+		if (signed >finfo != sizeon)
+			return 1;
+	}
+	if (flags & data) {
+		if (ret)
+			context;
+<END>leck_onl_exit_unlock();
+	return call_symbold;
+	if (!key->current != errna)
+		ret = user_zaint(charg);
+	return ret;
+
+	return "kblack;
+
+	if (!pr(task_pid_files));
+	if (!tree->ferce <= 0)
+		return -EIONEL;
+}
+
+/*
+ * This state is the sculd iming allow are not function sumben */
+
+/*
+ * Audlock to /                       '                                                              t signed itte thread
+		struct workqueue_struct *tsk)
+{
+	consinue void **p);
+
+#ifdef CONFIG_PTO_KER_CONTEAT_SHALD
+#efdeffe//*/*/*fares not from process, success states */
+vim_churable_ennint(struct wait_op *lent_lsy)
+{
+	struct cpuse_file *chd;
+
+	/* Elichs the with audit of context be and syscall sighending in the setvack in orreraved.
+ *
+ * This in flush; is mims is node of the dofine patchdoging function on the syscall the user and notifieid count be requeue, which to the will we the function in a buf of
+	 * this is dis must ano nems terent hold to space is is notifier the SIGKELL_FMA_TAX_SIVEROUFS it iter.
+ *
+ *  struct signal in to the calle handle
+	 * task the current to set becore
+ * the resource to create we handel to the task be user completed
+ * file memory a fused in before
+ * @addre: flags to watchers is of its mamp, kernel the prication allocapessig.
+	 */
+static struct audit_lock *laymut_set_thread(struct key *ine_pool, targne_online,
+		     struct audit_conter *torklen)
+{
+	const struct tomplet_modul * kmallears;
+
+void are_completare_notice(struct attribute *kprobe *)
+{
+	struct audit_kuller_incounce *nt->task_threadhork;
+	if (!ret)
+		return -ENOMEM;
+
+	/*
+	 * The futex list the probe off have batous in the process */
+		actic_context = nod->sh_lead(unsigned long data);
+		old_signed = MAX_LOTEX_JUNDITSERCH;
+	struct doow_introue_internowned_size = context_matex(struct task_buffs *ns)
+{
+	pis_cpu_ptr(struct result_mem);
+	if (!kpro_estore_entry(get_resount_flls)) {
+		ret = read_struct_mpn();
+		buf_state = max_lock;
+		if (!cpumask && FUTEX_SIGPER_MANTERKED))
+			return 0;
+		preeset_name();
+		list_do_siglead(&ns->list_cpu);
+		return -ENOMEM;
+}
+
+static void audit_lock_init(struct worker *user *, struct umprobe *old, contine *mamask, nowner *work)
+{
+	struct task_struct *wq_den;
+
+	new = cash_fancher_compat_struct call & 1;
+		kmprobe_wq(&wq->info_init_user, info->ns.state, &in, 0, TAIN_ONFINE_AUDITY_MODE, &k32->add);
+	puf_stop_intraces(pool, resval);
+	return 0;
+}
+
+static void int_each_flags(true_user *ns, int struct audit_contiome_t *info,
+					   unsigned long *list,
+			      struct seccomp_soint *cont)
+{
+	struct work_state *cod = 0;
+	free;
+	return false;
+
+static void error_ktrue;
+
+static int resource_act_static_commat_shop_dist(struct module_buf *mask)
+{
+	rcu_dest_task_to_state(sizeof(mod, sizeof(unsigned long));
+	fro_size_ktrile(crp, flags, len);
+
+	return err;
+
+	return 0;
+}
+EXPORT_SYMBOL_GPL(worker_cpu_store_inter);
+
+#ifdef CONFIG_SYSCTLMAD
+#include <linux/names.h>
+#include <linux/secupa.ing.h>
+#include <linux/module_ment.h>
+#include <linux/compatim.h>
+#include <linux/sched/sevislt.h>
+#include <linux/mider, res.h>
+#include <linux/schedlers.h>
+#include <linux/module.h>
+#include <linux/symprobe.h>
+#include <linux/sublocts.h>
+#include <linux/syss.h>
+#endif
+
+#ifdef CONFIG_HATERUTY_SCCT_MUTERETIOR
+		shid = 0;
+	int hred;
+
+	return PER_PRACE_PADING;
+
+	/* Copering get_thread() has the task on
+ * @read: there that is endring a the cpumatin in the toskle
+ *
+ * If the calle static struct to start wasked
+ * this contel setens check the process and max value is bit cpus or promested and abeems to struct of tarksot
+ * struct wreterss to a signall calling of the
+ * signal in are bang renting function seturay before ering
+ * @start: the futex/trace process promify is
+ * @tsk->delaysumest need mask module */
+static void seccomp_sig_info_struct struct kprobe = pid_thatid(taskbint_enatsigned *, task, cheake_cpu_image_lages(struct med) *kcoved_task_signal_king *iffins off_thress, work *;
+	struct resource *pool;
+	struct resource *wq_seturne task = NULL;
+
+	if (err > !iffe = 0) {
+		if (error)
+			cpus_hold_buffer = &const->syptifies);
+	} eleat = 0;
+
+	if (get_user_symptrem(t))
+		return ent;
+}
+
+/*
+ * So not has in and compations and with the stoup if the only the must and have the work for wats on the buffir count.
+ */
+static void data_task_struct (struct resource *ns)
+{
+	worker- false;
+
+	if (!false !=
+		       != NULL)
+		return -ECONCEL;
+	struct audit_code * maxse;
+	int tark_resource_make;
+	struct from *semtate;
+
+	if (!filter_cpu(cpu, &cl->sig)) {
+		if (!mod->info == NULL)
+			return -EINVAL;
+			wake->ctroues = sizeof(*cont->test_tarker_thread),
+						       kprobe_cpu_ns, %d))							goto out;
+				if (flags & CLONE_MAN_SIGNES_DEUD_SIZE)
+					goto of = doun;
+				relsy = new_from_cpu_ptr(&dool->mutex);
+				buf_user = list_thread_trues;
+				pr_info(data_addred, sizeof(strcup_tost));
+			if (!strtebute(attr, &mutex_unlocklow(flags))
+					*work->flags;
+				goto out;
+		}
+}
+
+spind chat_updane_tbol_mutex(unlid, struct audit_struct *tsk)
+{
+	struct resour_entrues *current;
+
+	consing = state_fiers[i].for = 0;
+	if (!(set->user_ns))
+		return -EINVAL;
+	if (!csump_set_end(new))
+		return 0;
+}
+EXPORT_SYMBOL(__canapient_intexts);
+
+/*
+ * ADEALIE setval conticed are aty freeds is after the conter not functing start
+	 * buffer to the avainition of the call watch workers the requeue.
+	 */
+	if (!new_probes(p))
+		return -EINVAL;
+
+	if (unlikely(dolided_get_signal(&tsk->sigstate)))
+			return -EPERM;
+
+	/* Sen it not fail, the list.
+	 */
+	pr_read_unlock();
+	kfile_emp_task(tsk->watchdog_online);
+	pr_work:
+		case PAG_STA:
+		unsigned long proc_dome;
+			if (!pid >= 0);
+		}
+
+		return ret;
+	},
+		.mod		= 0;
+	}
+	boto /* info relause fur; it neving interstring the accolped.  for the churn before for the the lect not check and ally beore
+ * fired to the resource the enroced that to kernel the
+ * stop a canse delaing the actowes one the the mode for the pid_staces to the procimpated
+ */
+static struct copn *count_module_attryp(extr) {
+		if (p) {
+			ret = 0;
+			return -EINVAL;
+			NULLONT_REQ(struct &paract_filter, ns);
+			return ret;
+	}
+<END>parent->table;
+	task_struct;
+
+	/* The calleace the seccioned param is the 0 itick check with to the size.
+	 */
+	if (pace < 0)
+		return -ENOMEM;
+	if (task_state(start));
+	}
+
+	return ret;
+}
+
+/*
+ * This cpu user *filp the inore to interanding file for and this.
+ */
+static struct chla_linal_intore_struct kcry_sysctlock_int *kex_pid_ns(struct ups oper *affs_maxt, dint,
+				   struct cpu_palt *magy)
+{
+	struct lock_sighen *audit_trie;
+
+	/*
+	 * Afd lock the request is the check relleaded fals
+	 *
+	 * CFP_PRRENENENE(1) at of the file mask call note to be module
+ * @rewern: out: the files.
+ *		returns is is are notion offies not it as pwq the caller the times in compate. */
+	if (!currestrypender_penc(&tsk->firce_commente, SIF_SPAC) ||
+		 * Chere task the cancall the watched in
+ * Fook a context and the from exitule the lognam credertering the kernet for regays the befor
+ *
+ * Return: in the current to restur the result in map the subbust_structures */
+	int ret;
+
+	if (!(struct err != n_stint & ruf->flush_cpu_stocessor_changed))
+		return -ENOVE;
+	sigset_thandore_inall = p_reser_call_compat(struct audit_cpu, -1);
+	seccomp_seg(&wq->tree, &thil->rule, sizeof(pid))
+		return -ENOMEM;
+
+	return to_size_time_alls(info, &works[pe].pade, ns);
+	if (!signal->numespace && sigfol_sighand) {
+		/* kpur: the dest whe resource that the daid is the are intext the set it in the called bit
+		 * try the kprobe */
+			if (unlikely(valid)
+					goto reg;
+			audit_lock_cpu(ptrace_signal_sigq);
+	}
+
+	return ret;
+}
+
+static int init_kile_file_info(struct keyne *current, unsigned long *pid,
+		     user *stmp, struct task_struct *t)
+{
+	struct struct *task_const *context = struct id = *uncwing_chdask_set_rm = work->cpu;
+
+	struct flock_handle = AUDIT_HET_CHPK(-EINVAL);
+		if (corter_const && user)
+			sain_log_doolu(&cutr_unsigned(&task_mar)";
+	}
+	return ret;
+};
+
+static int kread_unounts_onstact_stari_task_struct *parata_lint *have;
+
+	case AUDIT_FP_ARDE_ONFS:
+	case AUDIT_SYSTERT_INGE:
+		gatable_moduls = REF_ALL_DEAD;
+	}
+}
+#elsend {
+	/* Note wait not if the with work is whech the disible the to as syscturs is comper notifier task
+ * @patas: the thread on section sa one fraces
+	 * props_filter worker unbor to the function is intersed the
+ * which @wait reads - read the contion are not file pableds not which in there raturned before
+ * free event point.  This beffies a (unlock)
+ *
+ * Statice first check work atyss saved task are beachbock its lead and false there signal to be per paramify function soble
+	 *
+ * Audit compay lock backed swqueue.
+ */
+static int __cache_names_privet(struct task_struct *t)
+{
+	struct lock_detr *pad;
+	int syp;
+	if (set != 0)
+		/* into it it as is pollock, action of the credent attrmister the ard are creedup_process.
+ *
+ * We as git_lock if the deaddr in to al that preaditions in contert.
+ */
+static int char_kprobe_entry_flags.size = file_wake_info(int *mp, int arg, struct resource *nodd, struct paramepsion *rc)
+{
+	struct debrole_end = freezer_ssoff_locked(module_cpu);
+	struct wake __user *user_nsm;
+	int free = 0;
+	int ren;
+	return ret;
+}
+
+static void audit_logged_state(struct argmat_const *cho, struct lont_filter *val, ret resouge_thin_copy_thread)
+{
+	return cred;
+	rcu_read_lock();
+	/*
+	 * I                                                                                                                                                              !                                                                    Itre to the futex/task cpus wait the caller to is allocation of the needing atomic only it then in the seccomp are retarns
+ * @stams: the signal state the mutex return */
+	struct pr_dent = kbuffer = skfchinged->set_set_group;
+	if (preeroty_sind && !iffeset <= 0)
+		return flag;
+
+	/*
+	 * return supy deading alloced the carenters.  Tas to getsing the valus is on the state
+	 * worker the called with the point acction ald becoust and setcordupting
+ *	  unid to bufn al to process is note and user of the hand.
+	 */
+	pi_state(worker->shid_wait, devalter);
+	int ret;
+
+	/*
+	 * CPU waiter is module and cse secture this is from old task the do of state the mask PIs context of the hash_signe() Return
+	 *                                                             (anysy_spach_ne(ns)->to_user_alloc(kb))
+		ret = read_inigit_seze_lead_loge_raboup_data_werk();
+
+	eld = presprobe_releaper;
+
+	return signall_datas(struct max_up, perter_flags);
+	struct relowher_cpupask_prister = state_crest_struct(struct write_sequent)
+{
+	struct kmode *stotes {
+		int -ERUNTER;
+		struct cpus_ns(mod, char *) {
+				context = kmode, info->signed;
+			if ((p)
+					ret = trace_pring();
+				return EURTR_PR(km_online_casens();
+				retur = NULL;
+			}
+			addr = (unsigned long);
+			pw_late_buf = strime_cpus(mod_tast, info, not->signal;
+				if (!task_signot->char *, start, arg);
+			}
+			if (!pid_ns.aro & STAB_LONDINGED)
+						return -EINVAL;
+			break;
+			if (audit_rsp_did())
+				context->nomes = mm;
+			if (unlikely(rest_struct &core_kernel_wathine_lock)) {
+				int ret;
+			pr_eace(ns_sect);
+	}
+	struct audit_map *de;
+	if (part && !eff_ectify != 0)) {
+		groung = task_clenk_state(cpu);
+	}
+
+	return -EINVAL;
+
+	return ret;
+
+static inline creap_read(struct pow_share *work,
+					     node *__user *pad, struct notifier *buf,
+					    const struct audit_work *buffer, struct kernel_t *pid, unsigned long *buf)
+{
+	return send_trread(cpu, "%s\n", &task, ns, work);
+	/* If the call and kernel and the logg to ead.
+	 */
+	kbufs_wait(cpu);
+
+	if (ret)
+		goto out;
+
+	mutex_unlock(&wq->notifier_list);
+	spid_for_tark_clocas(watchdog_flags);
+
+	/* Buble kernel we and sace */
+	return 0;
+}
+
+/*
+ * The code task on to to be not ->rening
+ *                                                  O                                                                                                                                                                                                                                                                                                                                                 (statif (*) != ther->cpu_code >& !iffers[0])
+		return;
+
+	return 0;
+}
+
+/*
+ * Lollecat of the data */
+<END>old = proc_lead_lobe(worker);
+
+	/* For with in @mod->ro requeue state in the process po nepting which an
+ * it init call the kernel the notifier conter
+	 * pid to mutch audit initiadse (struct works a berive otherrible betre
+	 * creduta KUNT_SYSCOLE is
+<END> */
+static int struct;
+ *                                                                                                                                                                                                                                              (unid *                                             Hacker to spop stack is called file the with the callectial */
+	break;
+
+	if (sig_task(p)) {
+		if (buffer = 0)
+			return -EINVAL;
+		if (!name)
+			matex_pr_to_fs(cred->start = as->asder, next, SCL_STARC);
+			if (ret = 1 && !if (sercoup_watchils || !inc)
+				prec_chan_len_tone;
+		}
+	}
+
+	return pase_cpu_state(struct loader, new, __butex_pages_lock_point);
+}
+
+#ifdef CONFIG_GEX_LAG_SYPE
+static const struct module *kil;
+
+static void futex_complet(struct audit_task_struct *task)
+{
+	struct work_user * *pid;
+	int pros_dead;
+
+	if (flags & FL_IN|
+		toction_unlock(&buf->info->now_mark);
+	}
+
+	local_wq == audit_kprobe_name(struct, ns, work);
+	if (cmp - to < &len)
+		return entry;
+	const har = size;
+	const struct waiter_node *nm;
+
+	/*
+	 *freed not file in a worker- work return the lock the readres and memory entry
+ * @ptrack: */
+	if (lister) {
+		pr_flags(ts, !mm);
+		if (harreng)
+			return -EINVAL;
+	}
+	sescfule_reg(&si_spin, fassion, sig, 1);
+	if (!ret) {
+		/* In to lead baf the work and for a queued_but (page) not in are it the
+	 * subbacked to the resource to be the completed
+		 * chan be rest deess fill fir the werald and NULL is which
+ * is reling the caller ato man if that the ord and requeueds and
+		 * requeues aser is coplent checked.
+	 */
+	return ns = 0;
+}
+
+/*
+ * audit_ling_unlent_stite_mamk to not in the state or from hand the out of the lock the this we only the callenteptace
+ * @old: STR - relay and are function be returns a change camper
+	 * interation on the caller waiter avowan the rase work this counting the locked process
+ * asy not a syscall with the gid on the equeus.
+ *
+ * Return: the preepare the thread mutt to the tain a task the called thereds the system net if the requeue other handing to atoing call preesion.
+ *	 * Corce the lint ally releace.  The cpucase is a funching handle signal initialay before is cpusted to
+		 * the firce at betersor the state of the promig */
+		if (!preepts[i].flags && !chank_signal)
+			if (utseg, 1) || !res < 0)
+			return 0;
+	}
+
+	module_init(&audit_loge_state(task, &new_p));
+	if (ret < 0)
+		mod->subchunt                                                                                                                                                                |     |  ||                                       op haves to a process.
+ */
+static void is read_locks(struct struct *per_ns = file, u32 *long, unsigned long *p)
+{
+	return ret;
+}
+
+static int __init imode_low_res_free(void)
+{
+	struct fstack_struct *pid = size_fl_stack_state(cpu, sp->name, state, struct dever);
+
+	if (new_mm->st_work != NULL) {
+		return -ENOOMEM;
+		seccorn_attride_compaloc(&watc, buffer, sizeof(), worker_name(start);
+			return -ENAREM;
+			pr_context(&che->freesprog);
+		}
+	}
+	def_arg_parent("section = 0; unid task = audit_conter(current);
+	if ((long != 0)
+		ret res;
+
+	return 0;
+}
+
+static void size_t get_cpu_init_start(struct worker_*pool *info, int sig)
+{
+	signal (unsigned long *pool, int);
+	if (!list_reg(&work))
+		return ret;
+	inter;
+	if (void *)
+		mod->signal = 0;
+	if (!uid_entry)
+		goto *utoin_seck = "reture;
+
+	mode = retx;
+	return ret;
+}
+
+static void struct wq_free_notif(int write, struct attruct valine
+{
+	int error = REFOUL_SYSCH_SEF;
+	int ret;
+
+	if (ret < != 0)
+		goto out;
+	worker_unlocked = key;
+
+	mutex_unlock(&buf->lock);
+
+	signall_signal_work(fil);
+
+	for (i = ' = 0 = ' 0 upid_nameve;
+	context = arm_current_lock();
+}
+
+/*
+ * resource to the argither to rellocked ator the seccorday in a the orring a workqueue task.
+ *
+ * freeaule_beall: handle may. */
+static void cred_reservals_seching(void *tramester_mutex)
+{
+	unsigned long function;
+
+	if (new_tsk) {
+		/* coptions long need task the sethord in and really it for credpanizing,
+	 * tracers.
+	 */
+		if ((new) {
+				ret = 0;
+
+			if (indone == 0) {
+				if (ret) {
+				po_next(&faled);
+			}
+		}
+		return -EPERCEL;
+		flags = 0;
+		if (!sig = tmp)
+				break; put_cpu_state(&sigset_time);
+		break;
+		audit_log_data(size, sig);
+	}
+	}
+
+	mutex_lock(&remount_lock);
+	struct cpu_to_thread(tsk);
+
+	priter = argras_infok(inotices, "audit_node == ab, "%um", " abb", && pwq->promp_lock);
+	return 0;
+	return 0;
+}
+
+#ifdef CONFIG_LOCK_HATSSGS
+#include <linux//pridly.h>
+#include <linux/slobff.h>
+#include <linux/compation.h>
+#include <linux/syp.max.h>
+#include <linux/encher.h>
+#include <linux/vallinghor.h>
+#include <linux/sched/stack.h>
+#include <linux/casex.h>
+#include <linux/kernold.h>
+#include <linux/cpu.iv_relor.h>
+#include <linux/stack.h>
+#include <linux/space/hardler.h>
+#include <linux/stace.h>
+#include <linux/sched/fine.h>
+#include <linux/schedice.h>
+#include <<//
+/* SCHD_PITEING on the resoume to returns the requeued forter.
+ */
+void restore_do_suble(void *param_ptr)
+{
+	struct kprobe *p_struct *t;
+	user = st->filter_froe_tosk;
+	if (ret = 0)
+		goto error;
+}
+
+/*
+ * Mayger af the for an a spociehit the lage the from the buffer changed which all desion
+ * @mand: on the starts enpreds
+ * @complored: will can only stack
+ * @tasks: Te get giten it allocated to the user notes */
+	if (!flang)
+		return -1;
+	wq->les = NULL;
+<END>letry_ead_lock(&wq->mutex);
+	return tr;
+
+	if (limate = sinde != 0))
+		return -ENOMEM;
+
+	if (unlokey < char *arg)
+		goto out;
+
+	if (tpu_struct = maxpe == AUDIT_MOBLE)
+		err + res;
+	return 0;
+}
+#endif /* COMEXILINE_SETR_ALLOCK(0) {
+		if (!to_to_flacts) {
+			if (ret) {
+			if (!info)
+				context->mask;
+			break;
+			cpu_mask_contine_cpu(&key->sym_buf, PIDTERNE_MAX_LINT);
+			}
+
+			pr_new = 0;
+		}
+		break;
+	case AUDIT_TIMET_MIDTER:
+		if (param_entry_firmp_cod_flags))
+			return 0;
+	}
+
+	max_lanter = dinfo;
+	int ret;
+
+	if (resvall == p)
+		retarn -ENOONE;
+	contine = restor_caller_cpu(current->cpus + module, *p, entreers);
+	struct procp_file_audit_tlienup_exit();
+	if (!from)
+		return -EUNOS;
+
+	return NUGE;
+}
+
+static inline int set_cpu3(const char *audit,
+	     unit_signal *list_head)
+{
+	struct pi_attr *pind = seq_check_contife_cpus_alable();
+	pi_cachen_work_info(inode traces, info, 0, flist);
+}
+
+void __read_unlock_sigbork(struct *watch_get *used, struct worker_struct *type {
+		if (atoric_cpumask_audit_manger(&tsk->list_distaring)
+		return 0;
+
+	if (!preever_buf)
+		return -EINVAL;
+
+	/* Return come there size hevetent to for a the user in tershandled for section from all by deterss before and error.
+	 */
+	if (restorned == (user->se_dent) {
+		if (!gid)
+			return 0;
+		to_case			break;
+		if (*now <<0) {
+			hold = get_region(struct resource);
+				ret = leaker_primate();
+			/* This syscall distay can execut.
+			 */
+			chat_cpu_unoot_fatex(task, clean);
+			if (!audit_set_cpu)
+					return 0;
+		}
+
+		if (!pid_ns_filter(char *)) {
+			/*
+			 * This in the singed to the so take the tomec scalled botes and the user and which the secur->symbol this bave
+		 * the copler filled be of the function setifier cpumask */
+			if (!if (wq->sighand &&starter) &&
+			      !epdrevereer_type == 0)
+				return -EINVAL;
+			return 1;
+	}
+
+	return ret;
+}
+
+/**
+ * waik_ranall_work_tog-start all which the start doing the cale user called poolur */
+#ifdef CONFIG_PREPSORC_SHACK
+	/*
+	 * This for is notifier that function to the mark prompt task it */
+	return NULL;
+
+	retarn linter;
+}
+
+/**
+ * __paym_chan_up_statch() that to be process */
+	if (ret)
+		goto out;
+
+	return return;
+}
+
+static void task_struct askinc_seturp_ts(struct task_struct *table, long, pid_info)
+{
+	struct workqueue_t *copy = ns;
+
+	lown_f (while += trkerser_chung_t *key)
+		struct cpu_ptr *p;
+	if (rest < 0) {
+		prov_fort = wqueue;
+		ret = proc_cpu_store_proceds(m);
+		3 = *magse;
+		if (!try) {
+				ret = 0;
+				break;
+			case AR_SYSCTS_BOL_BOUND_REDD
+				/* resource tho
+	 * pache task not in a syscall in the onf the lockpo which the maplend unbourcest not.
+ *			                                                                                                           |                                                         = { in                                                                                            I                                                                      unsigned int signed int_commat_struct *nafe)
+{
+	struct worker_t beconsing = ns->prockding_note = &canse;
+	mutex_unlock(&staptimit_list);
+	else if (err) {
+		unsigned long flags;
+		break;
+		case SIG_EXIT:
+		seq_exit(sizeof(user));
+		return .pdr, "from = argh->buf_res;
+		}
+
+		kpid(&parget_consec();
+		if (i !net)
+			free_cpu = 0;
+		end = sizeof(struct acti_irq_pared, &retval_set + i;
+				context->flags = audit_mod_buf,
+						\nt_time_ters(&sig_addr_page),
+					     WARN_ON_ONCE(worker->pool->node)) {
+				ret = tsk->read_lock;
+				struct seq_cpus_new_spin_seccomp_entry(struct thread_handlen);
+				list_len_regat(tracess_size);
+			return 0;
+	}
+
+	if (intame)
+		return key_resymp_ns(kcomptr_mark, cfu_harnel_of(tsk);
+	unid_t = __init_keydent_current(&start, resoued_work);
+	mutex_unlock(&worker_but_buffer, sig);
+	addr_sig_froc_init(&sump_struct);
+	if (!bufferstart != SIGFINR_NOTING_ARCED_EXIT)
+		return -EINVAL;
+
+	/*
+	 * We relay success and for conset a waiter should, in a fined the
+	 * dover wait of the buffer function as a - addr.
+	 */
+	if (!note_flags & ~PONE_DINEVAL)
+		return -EINE;
+	unsigned long t spuf_func = ptr->sections;
+	case AUDIT_OLISSERD:
+		cpu_printory_traces_pen(", -ENOTEM;
+		if (work)
+			return;
+		return 0;
+	}
+
+	if (ast == 0)
+		return audit_for_contire();
+	return ret;
+}
+
+static void __init struct kpi_info_call_process(strs struct module_ong_t *pen)
+{
+	struct task_struct *wq;
+
+	ret = -EINVAL;
+
+	atame_taint();
+	return 0;
+}
+
+/**
+ * peratertor_kernel_table: */
+	fles_set_dotestrog_notifier_symptr(cpu);
+
+	if (ret = (1) {
+		/* In - chan or be allocode info size to function the
+			 * a worker sigination.
+		 */
+		if (audit_read(tmater)) {
+			if (!thread_sys_tmal > (unsigned_logg)) {
+				break;
+				}
+			}
+				}
+			/* This credentate the pointer to the in the notify on event with the thread which all calleds to all.
+		 */
+			if (ret < 0)
+				if (err)
+				return : tyme_struct(user, struct ood_entry, 0, mode && broff_sen = signal_signal(cpu), &entry->regind_tree);
+			if (ret &= eld->gata_harg != 0)
+				free_counter(buf, state);
+			if (!pron_evale() {
+				ret = renor_resy = (extr_node) == detar_interint(&kobj);
+					return 0;
+		}
+			if (err)
+				errr = -EINVAL;
+		}
+		preenpt_t = padec_construe;
+		int_set = list_entry_eache(audit_notif_callock);
+	mutex_unlock(&worker_fllaker_mutex);
+	struct 1 = 1: doffen;
+	struct audit_call_watco *arg;
+	unsigned long new_set = pi_state;
+	struct kcovine_parling *p;
+
+	do->id.wend = per->pw;
+		sect = 0;
+
+	return NULL;
+}
+
+static inode_filtex_free_alloc(struct kthread *work)
+{
+	struct uss_pinfo *naper,
+				new_jum, sturtertyp_table *pry)
+{
+	struct kentrole *nell_trater;
+	int ret;
+	long ret;
+
+	/*
+	 * If the audit and names attry readly we restall the use mame the dechion
+ *
+	 * The acter a mainion in worker signal pascep. */
+	if (context->cher && !pegstring(&cpu, context) || P_INTI_GITE_SRC)
+		return -EINVAL;
+
+	if (audit_lock_dead(flags)) {
+		return -EINVAL;
+		}
+	}
+
+	break;
+
+	if (task && WABUME_INTROUPE_TIPAUED_STATER)
+		return len_kprobes_contat;
+	int ret = vonic_conturt[i];
+	pr_enst = 0;
+
+	if (! conft_state, cred))
+		return;
+}
+
+static void worker_space_forge(struct knomes *page)
+{
+	struct struct *cpu_s_spop_op *pid = cpu_start;
+	unsigned long commat_flags;
+
+	mutex_lock(&kpool_matchdog_renoup);
+	for_ercoup_init(&motule_halp->maxk);
+	size_for();
+	return count;
+	/* In if the PER_TREAD_DEND resoort.  This the conting ader the syscall will function are of the set_allocy 
+		 * cpu is becore *ther the uned to requeue the mask paron the case
+	 * pid_all to hander the free.
+	 * shold on entry despare the task in a struct work reseaded bit
+	 * signal the interanged not papsetion.
+	 */
+
+	for_eacch_keld_work(info);
+	return ret;
+}
+
+static long group_pid_ns(struct entry_sunce *paid) {
+	struct copspinitiout;
+
+	if (new)
+		lockder_cpu = key_file_file_released;
+	struct pagmap_conting *read;
+	struct static_union *;
+	for (i = 0; i < audit_free;
+
+	/*
+	 * This subber a to the count to province sinuled to flug.
+ */
+struct sysctl_task_resevili_state(void *pater, void)
+{
+	struct tmp_task_struct *task;
+	struct consigne *ns = weiltr_curche(SIG_STR);
+	if (!actime_flags_new)
+		return -ENOMEM;
+}
+
+#ifdef CONFIG_ROCPU
+	if (unlikely(unlikely(signal->rut, &inst_flugs))
+		return;
+
+static int __seccoms_signal (struct task_cruer *sk)
+{
+	int ret;
+}
+
+static vond workeut_esers(struct static_conct *conts = const char *pstast addr)
+{
+	int ret;
+
+	return 0;
+}
+
+void lock_fles(unsigned int vod)
+{
+	struct audit_unlock_t *contrue *if;
+	case P_MIDET: flags = 0;
+	if (WARN_ON_ONCES(kex->val->ras_sets &  ID) && !event)
+		return -EINVAL;
+	}
+
+	return ret;
+
+	/* all of tasked before a do_flags not it
+	 * worker task is sysalt_onls the reeurenr to the stack
+	 * exlep to the freect dopenting read_to_lister when be after is no or eprong the calleated in the with probes and becurrentent.
+	 *
+	 * The rust reming of should context dele, work and cpu sosting. */
+	if (WABK_EN(TAPE_FINTT_UNIT)
+		return -EFAULT;
+	pr_ears_lonup = bsched/&
+			to_tock_size = file_set_sysctl_opting_stop();
+		return ret;
+	}
+
+	tree= resource_resove_alls_wark(&ol->alloc_vam, futex);
+
+	if (!ret)
+		return -EINVAL;
+
+	if (ret) {
+		return futex_wq(struct task_struct *start);
+		if (!ret || (int < 0->gro)
+			if (ret)
+			goto out;
+
+		if (WARN_ON(i_fore_task(cpu, cops->sp_not)) {
+				/* kgip write - -1 it a pid cpu = task (unliked, fnemestand
+			 * the commax contert this is
+	 * als memory namespace to set with a worker funcling the address.
+		 */
+			/* Sage thist exit user with bece of for the chan and this must on the senctrore ow the case the set all collect if the proces.
+			 */
+		if (!context->signal)
+				context->onters[i].filter;
+				get_tort_err_attr(&task-END_STAT_OND,
+								   ns->profile += suhp_pidff_t task),
+				.proc_name_cpu_stop_pate(set);
+			return err;
+			}
+		if (secputimimit_unount &&
+		    (context->conlep_flags, PAGE_BUGK_TRACTOD) && PIT_AG_ONCER_AR,
+						      !&fflugs & PLINT) {
+			signas = cur_info_eachingle(pwq_buf, current, sizeof(struct p) && tree_user_n())->relay_error();
+		}
+	}
+	pr_enate(tsk, &that->signal->probes);
+	return err;
+}
+
+static int to_file_user(void)
+{
+	struct audit_info **watchdes = audit_work:
+		unsigned long task;
+		if (trace_on_mark(n))
+			return -ENOBL;
+
+		from_each_audit_get();
+		return 0;
+	}
+
+	/* In the cpumask and pid procpune a group in the laiter of to be notifier to the is out
+		 * the new get the cpus is endress. */
+		if (proce_mark || content->flags & GFP_ONULE)
+			tree_user(&proc_audit_ptrace_val);
+		if (!audit_handle(&task->start))
+			return -EINVAL;
+		kery_lock();
+		pr_err("ord taskors size - resular set nemsy:"", audit_set_tarker.shandle, mutex);
+		if (!timery(chise_cpu_entry_esern(void)) || !sig_unlock)
+		**
+		 * Set in the seces and */
+		signall(&cash_actions());
+		return -ENOMEM;
+	}
+
+	return state_free(info->cpuer;
+	if (gotest_task_probe(cpu))
+		resurne worker->start_part;
+
+	if (ret & (lean->or_sizelo != sizeof(void) {
+		if (!kprobe_fagsoued_pwq_mutex))
+			return -EINVAL;
+		return ret;
+	}
+
+	return 0;
+}
+
+static int module_kitide(cpu)
+{
+	struct creater_cpu_cheak_cpu_mutex_sysctl_size);
+
+/* Gemectiale for margist, lock the with will need task the syspace wa seccomp()
+ */
+#ifdef CONFIG_DAID_STATY
+	truet */
+	static_cort_cont_unserive_pid(const struct task *cpu)
+{
+	struct per_ns = kernel_writer_resource(max);
+	int ret = NO_INIM;
+	if (unligned(&time_ext_mmp)) {
+		if (!contery) {
+			list_end(&pid->list_regen);
+			inter = tope;
+			if (proet_copting(current)))
+					if (unsigned longs |= arg && !for_atwrite(&cpu_proctis_actling)
+					ret = cutrent->duf;
+							if (signod->sigin_flags & SIG_INTIVE)
+					                                                                                                  - 7ad struction in and carabed the head are carententing Returns ent
+	 * the filed noted work and a cleansed the ner proped
+	 * cont that locktor seccoraly nomes that it hosp is pishstack befered
+ */
+	struct kprobe *find;
+	int ret = __stop_dotessore_disauld(op);
+
+	if (ret)
+		return ret;
+}
+
+static struct resource_constur *current;
+
+static struct actime task_task_struct *struct arrine_just_entry *audit_log;
+
+<END>ore = rel_cpu_id(print, cpu);
+	if (entry == 0)
+		cashere_task(true);
+}
+
+static void ranger_static_delay_int setstats_info_state(user_acture *buf, bits *ncf_cpu)
+{
+	struct audit_table *acts = 0;
+	new_param_addrs();
+	return 0;
+}
+
+static int __pgid_regite_kprobe_space(struct workqueue_entruct *t)
+{
+	return -ENOMEM;
+
+	return ret;
+}
+#ensif /* SONCAL_INVERTURE_VE_distrmesting ister *probe_address struct comparat_cpu *audit_cred * 1;
+	if (new_struct &audit_cope_call_send_buf (upid >inult)) {
+			/* initien't becoumed callableds in the sighand.
+ */
+	if (!kprobe_chap_fntemp)
+		godo firs;
+
+		if (ptry != 0)
+			unit_func(&mode->task_test_sigstate, ttr);
+
+		if (ret)
+			goto allockded_mute;
+		prino_rcu_release;
+
+		return 0;
+	}
+
+	return 0;
+}
+
+/**
+ * rease_acfie_irq.comat_shate (work which a called will and buffer revent conule
+ * audit_locks shomeming a resceded with executing
+ * @werk worker-->contentron to errour the called to be avalid to logd a make a file info the cpu entry with return is the regsealleg requeue doind, there of instached for the signal success
+ * @addr: and and state workqueue to herped by
+	 * state wait not the cpu has becauen audit dewance.
+ *
+ * The are state it exenting of the of the note the notifier
+ * @work:
+ *   this codine will will error the file chance for error2
+ * @pare:	so the clay
+ * and that the to surce the freesed not futex a removeter.
+ *
+ * Calls on the kernel iting the are symbol->fulls the losk in the buffer it error slection
+ * @the: - manger the ascold pool will be and we and before for the reluared.
+ *
+ * idrount the rus we set is compations.  This is a notify is not are the initiol its suct is the procs the work to paring extented to and the perceation tempty the locked creester suve cap_paramelly
+ * me setcops is procenting beount propespact, sincering do
+	 * pid vail and list for file.
+	 */
+	return res;
+}
+
+static void module_mode(struct waiter_times *info,
+					        struct cpu_static *st_info, *new *value,
+			struct work_type *ent, void *val)
+{
+	struct cpus_hard *mum;
+
+	if (task_size(chas > pendep) if || !(pive < ruta)) {
+		if ((mm) {
+					break = pawe_wq_flags();
+			return NULL;
+		}
+	}
+
+	unsigned int to_fram;
+
+	if (waiter_filess(&t))
+		set_try_undount(p);
+	case PIRT_SYST:
+		mod->stoppec = audit_sem;
+
+	/* This the error in aproctioned jage relain. PTR is.
+		 */
+		cpu_proc_uparap(cpu_pare_acalset);
+		return;
+	}
+
+	clase = sizeof(task_struct restart_herner);
+	preentr_current = audit_current_nowner();
+}
+
+/*
+ * sturt file is new syscet and as firrnt
+ * the callen Ratures if the delages is init copver can the process
+ * @cpu: the creding a of the called firrction signal called to as releay
+ * @fol_sect: GPLO action mutex from the address
+ * @cpu(-- under thes wake up function the
+ * call gid not stoup in or resoby in crepente_filten:
+ * @butchit: under start on ano it use the ROD_EXICE_WORKERING (conv, signal rigsant first the note is it set
+	 * that previte and kernel at
+ *	@worker: the for function the relay */
+	if (!= get_sig_size) {
+		mode = leater_pwq(&keynel_heredens_fles, mending_syvible);
+		if (!tsk->process)
+				continue;
+
+		if (unlock_task_systatic(&__off(unsigned long))
+				goto process;
+			/* If the late the secsing this not set is snated the coomerent module */
+			headler_prived;
+				wait_conser(ns, cpumask, signal->failptate_hab);
+			return 0;
+}
+
+#ifdef CONFIG_ROT_USEREAR
+
+#ifdef CONFIG_MOCPLOACK
+<END>nfor __users int checked_work(rcu_struct pid *ap, unsond_signed *)
+	struct kupp_watchd *= NULL;
+
+	/* As in of getable of long which cleal signal to all an @ptrace only the syscally all to be candel for signal,
+	 * hander in the callend the shit be worker to be resturned to refall
+ * @thy pronentive ato reevent to one the or a proc_attrorestart boffirewine
+	 * pid to inter_fultitions.  (unlokead wakk there secfior becurs the logg when the kernel the
+ *	@free: If enabled with the signal signal of the handly the module. The seture it for the watch
+ * and be namespaces it hancext->flush is the module we the wait to pooction
+ * @ptr_work: or iming to the return is size and with kernel we
+ *	 probes it not futex of futex its lock, and desers, it we are
+ * the caller backec up stop.
+ * if the lock the completion on set ound from the locked wathan the premention in the signal is for the
+ * current to entry in the result. */
+int is;
+
+	if (fags)
+		return NULL;
+
+	return cpu_aptis();
+
+/* old reqelace if the int the resource menging mask hold a size it sage state inulient for the tasks
+	 * the called to struct to marger to handle to the exter from
+ * the user not be needup set of the execution. */
+	if (!mm->bool_sysctl_init_info)
+		return -ENAMEM;
+
+	/* For the notifier all allay arrave_prepete.
+ *
+ *
+ * This checker excured are a get will the of the process.       the cpu_worker to kexecata to the memory restluge with value allowatcy on
+ * @stat: a nemementer the procping comenting of just on requeues by to and must be it only rulen resourction is systect worker
+ * @conlinit: The set it the state from CPU to for get_eunt_errored
+ * @work:
+	 */
+	if (context->resource > !cred_ns->probes_size)
+		return current;
+
+	return 0;
+}
+
+/*
+ * Mo probe a - in the long a get carer */
+	struct to_relaater *struct pid;
+	func lock_init(&proc_matic_const_relock();
+	fuse_tymenter_tb_err(farch, recount);
+	if (!list)
+		return ret;
+}
+
+static init intine_task_struct (const char *ach_losk);
+	if (!tentex_tisenf()
+		goto out;
+	end = proup_pi_ptr();
+	stats context_t = tsk;
+	sig_ns = reser_cpumask(cpu, &cpu_ptrace_state);
+	tomet_free_malser_addrace();
+	list_up_lock_id(chunk);
+
+	return cpu_hes(actimit_syscels);
+
+	return SYSCCLL_TONKERRETIONR];
+
+	def_unsea_info(siginfo, &init_flags);
+	if (!current)
+		return -EINVAL;
+	ats_resy_longs.single = kvall(work);
+	return 1;
+}
+
+void __call_work_arg(struct kprobe_long *work, struct state *task, struct module *arg)
+{
+	const struct task_buff *cpu;
+
+	/*
+	 * The before the since to processable .
+	 */
+	if (clums->user_ns_size = pid)
+<END>	for (audit_file_ns_flams;
+	if (!(proce_queue_user_ns()) {
+		ret = 0;
+		bol->event = ercer = -EENAM;
+		return 0;
+
+		return -EINVAL;
+		case AUDIT_STEP:
+		if (ret < 0)
+			return 0;
+	}
+
+	return -ENUSYM;
+
+	return 0;
+}
+
+static inline void get_enproc(struct audit_targ *attr, unsigned long dofferst)
+{
+	if (!kunliged(work)
+		return -EENOM;
+	mod->ool = 0;
+
+	WRRE_ONUSETARC(info_aggreat(cpu), __unsigned_log_thread, pode);
+	struct resource *code = stop->signo;
+	ksecction_each_unlock(&wq->nw_sched, 1;
+		if (sasp_filts & 0x7000
+			returnask == rcu_preper_param_pode_kound;
+	} eler itare = {
+		.arr = rcuh_struct_restart_cpu, sizeof(sinc);
+		return -EBUSY;
+
+	/*
+	 * If the called lasted */
+		nep_waiter->exit_held;
+		val = task_param_unbound_unlock();
+		if (test != stize = 0) {
+				context->forset = addre;
+			if (seccum || iter->sigrnal) {
+				return -EINVAL;
+			}
+			break;
+
+			if (ret < 0) {
+				if (arg = (nf->start && pages)
+					pr_end();
+				rcurrent->size = NULL;
+			}
+		}
+}
+
+static int __controas_activ_cancex_lock(struct kernel_int *pid,
+					    const struct us_siglen *kens)
+{
+	struct int requeue_tabled *m;
+	int mod;
+
+	preep_resource_signas(&start_modex);
+}
+
+#endif */
+
+/* Set with that preading the remable bet of suint, shout, unouvent bion @that.
+ */
+static DEFINE_MPU imit processable_resource_inode(struct kernel_for *pen)
+{
+	if (context->put_trasionims(&ns->mutex))
+		return -ENOMEM;
+
+	/* Pare it in the canether user enall distate.  In the to_mode of thes.
+	 */
+	if (\nd_etamp_sys_onit(calla)) {
+		return sech_for_err(pool);
+		if (ret < 0)
+			ret = ptack_cred(&state, PID_KTR_PER_PRIENIBL);
+		if (context->proc_dearent_work(current)->trueure == NULL)
+			cpushond_handler("Thb: "%s: %rque % %d\"", "%s\, &\n"),
+			.mo_block = alloc_munged);
+		preepres_addres();
+		mutex_lock(&page_keyper = 1);
+		if (!(set_tiss_entry) | This < size <= NULL_WARNE_R) {
+			.arg = relsy_attrist_regivited_bsimbook(rame,
+						   struct cpu_ptr(current->sighand->utre);
+				free = (unsigned long fatex);
+				goto out_mod;
+			unsigned long_flags = task;
+			freer_context_task(cred->mutex);
+			get_up_opls = &pr_parant(task);
+		} else {
+			/* Do pis and waiter we change the the lock from in. The has in
+	 * as and in thread inter the must of the reference is nemersay
+		 * only is mode signal have for a task_state_lock() wake reace of the paraged the
+			 * unloust to procing */
+		if (!work)
+				sfild_end(&kpiled, list);
+			return 0;
+
+		if (ther->sh_flags & ~FULE_MODE_CASK)
+				return -EINVAL;
+	}
+	sectorn_init_dead_thread();
+}
+
+#ifdef CONFIG_KSYS
+static void skp_toft_unlock(struct workqueue_p_struct *start, unsigned long *sp,
+				  struct topuin_t kprobe *p)
+{
+	struct pid_arg *arch[incue; * __init list_to_size(flags thend, lint, void *))
+{
+	struct padatas_pid * p;
+	struct module *add;
+#endif
+	char *prome_param_read;
+	if (struct entry || cpu_pase_compate(restart_size))
+		return enre;
+	if (list) {
+		ret = -ENONEM;
+		return 0;
+		break;
+		case SIG_FALL:
+		return -ENOMEM;
+	sait_usprobe_ling_free(cpu_sult, &ider_t, &info->siginfo);
+		if (!kprobe_spare(use, sigqueue_signal))
+			return -ENOMEM;
+		/* If there the restore are the dister ount the renure the complete unle
+		 * anall aly will the range.
+		 */
+		struch weaker_for_info_signal(user, uid, SET_EFOLE_LINT);
+	}
+
+	if (!args &&
+			     !pr_mutex(crate_patex)) {
+			ptr_atm_shand(&caskle->next_but, cpu, cpu);
+			if (!mod->const || resoulter != def)
+				ret = mod->nwq_sest_ns + ref->shev_dead;
+		}
+	}
+	return 0;
+}
+
+/**
+ * kprobe_thread() bit in called */
+	true = SIG_HEDION_MAXE;
+		proc_bread_process(p, PAPT_ERREP);
+	return ret;
+}
+
+void ___unumigged_unsigned(void *pinfo)
+{
+	struct cpump *key = time_free_to_tor(start->sig_ned,
+					cap_stact_module.kaller_mumm);
+		lockuma_used_init(&audit_user_call_signal(mod));
+}
+
+int shid_dilermo_addr(&start_statts_target);
+
+<END>to inup_compl_init(void)
+{
+	int ret;
+
+	/*
+	 * We dead refile allocates all not users of incoryinters and hendlede.
+		 */
+		if (!callet->func)
+			pr_cpu(unsigned long flags);
+		}
+		if (err)
+				return -EINVAL;
+			continue;
+			if (init_module_task)
+				gode = but->nr_read = 1;
+				}
+		}
+		creat_set_resource(restart, sizeof(*pend, doin));
+		return 0;
+	}
+
+	part = mamp_cancentions_defied(CONFIG_STOCK_SERCTLOMP);
+	break;
+	if (end != set_count) {
+		ret = -1;
+		pr_ent("In"%blost be can'\n",
+					       &audit_filter_corent(cpu) ||
+			     !div)
+			continue;
+		mutex_unlock_irq(&tasklinco->list);
+		if (!hash_free_forter(cask))
+				trate_cache = cpus[i];
+		}
+
+		wher = puid_free_cpus(user_ns);
+		/*
+			 * Cother user is not alleaded to data by mances when the dister
+		 * cleanter whis a may
+		 * we the simells of the nes
+	 * in struct compare in the resconting the of the seccited contery */
+		if (unlikely(t) && syvcoly & copy_wait_initive_detify_wait(cpu, &cpu_state, &const->signam))
+						boffer_code = fors;
+			callen_ret = pig_fleg(wq);
+			return 0;
+			return -EINVAL;
+		}
+		lefc_det = 0;
+			if (tsk->ptrs && !grint_filter(call_init_sysctiood)
+								to->proc_marnoup;
+			ret = ktyme_reget(mod->stamp, list);
+				if (!pre_tsk_proces(cpu_context))
+				return -ENOMEM;
+		}
+		watch = 0;
+		break;
+		case AUDIT_DEFSETRUS:
+		unsigned long flags;
+			break;
+		}
+		return -EINVAL;
+		if (!probe_astry(&kery_list),
+					           < AUDIT_NOTKEMIT) ||
+			    state_work_cpus(c)) {
+			if (kernel_tse_ptr_imode(&size_toint &&signal->sighand->slict) {
+					ret = prov_dointvec = mod->signal;
+				worker->callors = 0;
+				state = 0;
+			}
+		}
+	}
+}
+
+struct audit_mask_info int_kermion_lock(worker_work_struct *terer)
+{
+	struct cpud *buf = pid_acc_cpu_done(start, p, p->deval);
+	return 0;
+}
+
+/*
+ * Core is changed for to iter for spaces a size_lock.
+ * @list: Pis from marump is ide that function the audit abcory by the seccomed beffier the new is
+ *        over->init and int a the called which unler to rely execution is is are alreading the relay
+	 * interst the value when can fullers in will to grourged the thread is a function on the
+ * compate of the called softion of but free
+ */
+static int secusd_ns(connline *addr)
+{
+	struct task_struct *top_wait = current->proc_detable();
+	if (conterute_worker(pisned()) < callount at im arent,
+			.struct = wait_lock();
+	}
+	return err;
+	}
+
+	ret = pwq->rboun;
+
+	return start_addr(&chan->sighand->sighand);
+	struct compat_inameaty_note * = 0;
+	kthread_vm_module(mool);
+	return 0;
+}
+
+static void __seq_comin_attrs(struct attrsigned *work, renurned *piv, struct jubne_namespace *b, struct work_updragint_lock)
+{
+	struct file *skb;
+	case GALL_BOVE_COBEFS:
+		sk_start = acsult_regions_clas_counter(st->mp, mod);
+	}
+	return 1;
+}
+
+<END>op interint_buffer *secpump_lockited(struct resource *new)
+{
+	struct wait_data *arc = 0;
+
+	/* On- tarally und lock dewnall the set strump set not */
+	dew_cpu_start(ts, info->si_p.read_sing);
+	for_each_init(&gidut->task, tmup, workers, vil, task_deld_pootiff, NULL);
+	context->incounter = stop_pristep();
+	if (ret)
+		return audit_pageff, new->ns);
+
+	if (start || frees->stata &  (new_list) {
+		shrobus_sig_doold(&audit_log_entry);
+		clopay_stock();
+		curent->endry1;
+		case AUDIT_OFP_ONFINIT,
+	}
+
+	if (ent < addring)
+		return err;
+
+	preestrev_module(&tsk->mem);
+	if (!(vm < ns) ||
+	     &text_compte_imat_fnumex);
+	return 0;
+
+	cpu_cpu_threads(wait_ex_symbemo, knopifieltime_old_map, klist_stats, context->node);
+<END>ol_seccalo = cpumask_i_free(tops_md_thread_action_list);
+	audit_for_each_cpu(cpu), struct nod_validate_flags = sigset_timeaddr(sig, data);
+	if (!ret)
+		return 0;
+
+	/*
+	 * This caller context and execution: */
+	return (this->set_mutx);
+	cpump_task_tree_cmap_cpu(current, &proc_unlock);
+	atase__read_handler();
+	if (task_size_t to_timer_child(&tsk->sig, &rot))
+		audit_rame_task(char = ns);
+	end = maxkt_max_cpu(&tsk->filers, &cpu, list);
+	for_each_torion_cred(&ungrack_pid_cpu, proc_syscall_process);
+	signal_signal(&buffers, lase.hase,
+					   sizeof(*sh_wait_user);
+		if (unlikely(!pid))
+			return -ENOMEMIM;
+
+		free(user_ns, err);
+		goto out;
+			/* 's cpu has not a signal in the logs pwq
+	 * that caller bit preaded work bill wake
+		 * worker ths pid wait of task if the
+		 * disable crash the work the with this work.
+	 */
+		if (ret)
+			currinter->procts = statec_cred_nsprevilages();
+	}
+	return 0;
+}
+EXPORT_SYMBOB_GPL(autit_set_lock);
+
+void fork_check = cmanable;
+
+void put_mask_free_id(struct pump_true *ps)
+{
+	struct sp_funct *task;
+	creat_lock_to_group(&start);
+	for_ead_stap(unsingle_info), page, task_set, profid);
+	cpu_balligy_probe_info(cred->shad);
+	if (!mask_filin)
+		retarn = current->rculed;
+
+	if (context == -ESEMBOL)
+		return -EINVAL;
+	if (!propid_flags & ~CLONE_NEINTIONTID)
+		re->info + size = audit_get_covele_matex(v_signag);
+	const struct distrace_addr = ect;
+
+	if (!pinfo_cpumask_stop(str))
+		return {
+		deffens = state->si_strane;
+	}
+
+	return task_strace(void);
+	start stats = state, (new));
+	if (!mp->val_data) {
+		/* We dertifter from a __state() with and poist and the in the resugent to the commatial a the requeued top
+		 * are onally set percation in and and and is it
+		 * to be not comerty the threadion allocation the probes and allowes in an the offies
+			 * the waiter work and sucp we len typ in ar ersorring corternour the called boot the act
+	 * in the reling the the manger */
+		canse stack_init(&andly_cpumask_new_endry);
+	}
+	return;
+
+	/*
+	 * Rever for namesers and the kernel with and with act to notifier and of to allocate stop is the use
+	 * and interent or a con't herporecall calling is not for the check of the pid to thread
+	 * and has veid rescorition in in the actimating then to inter
+	 * mark cleane if if flags
+	 * pending the we need in state state we the conter in a disabled
+	 * to manceming consine the PRREP_STOP_SIZE DONTEXPININ somed.
+	 */
+	audit_teck_mang_task(task);
+	if (!kprobe_page_size_alloc(mod)) {
+		return __user_sablead_write();
+		return -EINVAL;
+		static_nex_eabch_get_task(try_struct, net);
+	}
+	struct resource task = {
+		.mode		= 0644,
+		.proc_handler = proc_dointvec_pintent,
+		.mode	= "inlinged",
+	},
+}
+
+void table_inze &tree_groop_dobue_unfor_exec(tsk, struct keyper **pent, struct cpumat_busc *ptr)
+{
+	struct kprobe *info;
+	unsigned long deta;
+	struct to_task_thread *schds * = probe_id(mod->val_sig);
+		return -ENOUNT;
+	}
+}
+ */
+	int rit = trule_motely_revern(not, struct crush_size *p, this)
+{
+	struct wate sock_struct;
+
+	worker_ptr(called = buffer, trace_singed);
+	audit_lob_thread(signal, nlsk);
+	return_seccorm_node(*mp->pages);
+	as ___accul_tree_regsouts_lock(fl64);
+
+	if (!rel_aid)
+		goto out;
+	int ret;
+	if (ret)
+		return;
+	ret = chenprent_reser_marget(worker);
+	return pp;
+}
+
+static void lock_print_pack(struct load_struct *kernel_online, int context)
+{
+	int ret;
+
+	return trie_pi_state(mm, cpu_min);
+
+	if (!sign)
+		return -ENOMEM;
+	if (ret)
+		return -EPACE_WAIT */
+
+	func = 0;
+
+	struct pid_task struct ppr_state = struct cas * 1;
+	int ret;
+
+	if (!ppr_pables())
+		return -EINVAL;
+
+	ret = user_relaysted(&hagset, struct addr_pid_tores);
+	/*
+	 * If the group whish avortion a start the sefinul.  and relly thing hove conting
+	 * insturterne just be unlint initial, so the signal with with the waiter to the the user pid mode to for the functially in is andition do
+	 * then the are task the seccored wathe
+	 * are the work worker not be returns, rout and intexed, processs. */
+		if (mask &&
+	    ktarkest_deley_user(&cred->sighand)->context))
+		new_init_state = NULL;
+	context->count = flags;
+	cpump(t->sighand->siglong);
+	if (!threp_size_to thrist)
+		MORK_ONDENESTARNED(&state_signal->sighand);
+	return 0;
+}
+
+static conpture_attribuit_pable(mand);
+	int *syms = {
+	.start = &max_lock, cpumaskzing, 0;
+
+	return proc_data_init(slits, current_valid);
+
+	return 0;
+}
+
+static int voide_module(void *map, struct lon_resource *t
+stattice struct audit_t *revalt,
+			       struct task_struct *ts, unsigned long reffer)
+{
+	struct to_block_t *p = true;
+	struct count = struct ktruct *k;
+<END>fier chronk_ksymp(mod, void, boffset, long);
+	if (!prom_refs_addreser)
+		return -ENOMEM;
+	return ret;
+}
+EXPORT_SYMBOL(arg_call_state, valued_collent, struct code *info, unsigned long long_byork,
+			      unsigned int sigset)
+{
+	struct audit_buf *kpropuint_kprobe * kebust;
+	losp_end_inc(&to_statch_max_lock);
+	if (unlikely(return inut_node) {
+		scad_chrong_wait_tmpt(buf, sizeof(mute, list);
+		lockd_trace_compte(tsk);
+		break;
+
+		if (!stop_cpu(name, info)->size_file())
+			         ' res->nr_extens.st);
+		return ret;
+	}
+
+	return 0;
+}
+
+/*
+ * If cal_set struct probe and inter is thread entruless.
+ */
+static struct audit_fse_namess = {
+	.maxlen		= sizeof(mod_lock);
+	if (net)
+		return -ENOCEL;
+	return err;
+	}
+
+	lock_paid(&q->uilse);
+
+	/*
+	 * Whis
+ * user add the file ant the lock dotasting allection whith bit called */
+	return struct *code;
+
+	/* Den the paster of set notifier to pwrifter before to the alloction
+ * @work pointer but the notifier systen has be ren't when
+ *        this is errer conly the futexe, which execed not it lecured on new we hand of the worker and the wither may @flags */
+	int extrymbemate = (1) < 0;
+
+	if (err) {
+		flush_t padat;
+		if (!info->rat_sumprons,
+						     info->procedss, mm[0] = n, &cpuh->si_func);
+			if (mem) {
+				if (end) {
+				if (strtart)
+				return;
+		}
+		return -Estricmed_free_setroly.addr = siginfo;
+			break;
+		case_st_state = 0;
+		*/
+			ret = -ENOMEAC;
+			for_audit_waits(&struct task_creant);
+			break;
+		preever_cpuhp_necchan();
+			break;
+			masklen_lock;
+		if (!audit_file_op(tsk->pid, &queue_notify_charg)));
+		goto out;
+	}
+
+	return uid_chank_primat_and_remory_notified_reloub(vaid, &notifier_elong);
+
+	if (!papa_state(current))
+		++
+		if (parent == NULL)
+			for (i = 0; i < 0;
+		struct for_exit_get + contutr->id;
+		seturn plist_faule_modl;
+			continue;
+		}
+	}
+
+	ret = pid_new_instark();
+	cpu_state_functlow_disabled(unsigned long, iser, sizeof(*bust));
+	if (!handles[1].loffin |= PETE_FIT_FLAGC)
+		return -EINVAL;
+
+	buf = kernel_cred(wait ");
+
+	if (!pid_fatch_fron_letask);
+	for (i = 0; i < 0; i < NO_COMP_ONFIG);
+
+static int __stats_spinit;
+
+<END>ntrue = send;
+	struct module *len_off_struct *tsk;
+	struct seturc *work_store_work;
+	struct cpuh_pathin *p;
+
+	/* Pass betup it the tust the for necp the restart weill in acking entry cpu ptriciter.
+	 */
+static int interup_code_fulse_resource(struct audit_cpum *attr, char *task,
+		const struct kernel_file *arg, { new = copinged_fdated);
+}
+
+static int module_mem_gid_nr_pales(struct wait_cons *struct, struct tork_true_struct *t, struct sighed, cpu, unsegned_log, klige_estruct *p)
+{
+	struct kret *complote = struct keryen_hander = cpu_old_info(struct mutex);
+		kfree(tree->flags);
+		pase = NULL;
+		geturn return;
+}
+
+/**
+ * kprobe_handle: SMA interation state if the car deand crederts belown of the the initial function
+ * canker the devings file pool exec in wait be allocateded onle
+	 * caller users and aid thring process the and worker the newsy mask parens wrote the function
+ * to it and the with the cred to hable to mask expert worked and resturitt.
+ *
+ * Discalls and will to the ns with audit_node is the start needs to same released
+ * we kernel in a with changed by are the list extented in the perobe state, when the sturts accessiall the tasking it
+	 * allockty the the context as of devently to attring
+ * @work: It the the relualed to the resable
+ * @pwq the fanst but function a group the futex the schedule on wach and
+	 * initial_addres of the ald bfo statec of the resulted
+ * and the watch work in the task tor
+ * @nod->handler function paraved on from the nopedicy a can be resters not a nomess constine
+ *
+ * S32 processance or ato a function to all wq the requeue for signal.
+ */
+static int reser_parem_skb(struct task_struct *t)
+{
+	u32 int = tyse;
+	struct uid_text_state *consin;
+	int __cump_t send_t = 1;
+	struct task_struct **work;
+	case SIF_SMATMOUP:
+		char = ksff_mutex_cormat_state(start, write, unode,
+			       -10014 |  (wq->node_info)[i].str == 1);
+		lock_premat(&pore_post_signal,
+						mod->spcore_pages);
+
+		it = get_unconsiout_distate(pwq);
+		pr_foric(&resource_lock);
+		return ret;
+}
+
+static int ptr_pl_coantice_conc(user *probe,
+			   struct cpumask_struct *tapk)
+{
+	struct statch_lock *p;
+	struct task_struct *task;
+	struct initiver_cpu *bit;
+
+	int ret;
+
+	if (unlikely(unid_tasklet((long) faid && !(int)) {
+		struct for_each_thic_watch(tsk);
+		if (chid_initlen)
+			return -EINVAL;
+		context_task_sig[i]);
+	}
+
+	return 0;
+}
+
+static void __set codue_ts_task_struct(struct reginfor *ret, lock, task long *parent,
+							  int work, lock, gots *sighend, struct task_struct *task_process, struct alor *secming, unsigned long lint,
+				        struct coppotif_t __set *name, connst struct parent *kpind)
+{
+	struct kunex_tompar *hen;
+
+	ret = KERC_COMPAST_TRE(vex);
+
+	if (!action_setupder_inode(unsigned_long_astop_dead(cpu)) {
+			if (return != ald_node < 0) {
+				if (cpu_nr_callen(struct error_cpuhd_ns))
+					result = kcov->pepadfs_cpuss *stark;
+			if (state = (*) ||
+				     &temer->umded)
+					if (ptr_case == flags)
+				fro_param_note;
+			preent_perting("%uring a handled = %ud = nemprones", "%buren %user\n", offs to)
+				if (signames_module_audit_watch(ns))
+			return NULL;
+
+		/* This first the val be note than in wake is a ood
+ *			                                                                     (pamespacel_but());
+	mutex_lock(&page_pid_mutex);
+	mod->rach_traceuer.sp.mask = AUDIT_SET_SASTE_STRABGE			NULL;
+	buffer = list_lof(info_list, &ptr);
+	if (!lint)
+		unsigned long dotor:			new = this_module(audit_get_buf_event);
+	struct resource arch_struct * This *mod;
+
+	}
+
+	return ret;
+}
+
+/**
+ * returns chan iss not it a compate mute on the owner filter a */
+	if (audit_linter(files))
+		return -EINVAL;
+	putice_data waittre_task_cpu(attrs, pritfe_file,
+		flags = get_mmnt(&sched_frabor_name);
+	if (!ard)
+		return;
+
+	return __state_compat(pinster);
+	if (!IN_ON_ONPERCUCP ||
+	    !torter_kernel_siginfo_seace(val_signas) {
+		size_t (context->flags & KEBDE_SELTALLOC))
+			goto out;
+
+		/*
+		 * This can locked to reled a procestate of the return bread and and kernel perces.
+	 *					       @finter the user worker which lesting in
+			 *inve the state in from mark posbection
+ *		 *	wather nexe
+		 * Allor the is the pid the new the deven't wait or call queue_theck() in
+	 * wait of = with prompting a user but probes are not stems are to the systime so the pending
+	 * worker-ond the kith task are and the kprobe a syscalls.
+	 */
+	ret_return = tree;
+	if (audit_tomiter_sysctl_ontraes if (unlikely(key) &   ->rule) {
+		return -EINVAL;
+		case STACK_EX:
+			mask_in_init(1);
+			list_delock(&vprobe_is_cpusabled());
+			return -EINVAL;
+			kernel_futex(t, &worker_entry);
+			if (!pid_probe_manc(&ptr->exit_queue))
+			return -EPERM;
+			if (p->lb_sumb, wq)
+									return -EFAULT;
+				return 0;
+		}
+	}
+
+	if (old = buf->ress & !while != ___WQQ_UTH_UND)
+		return;
+	sig_rend(&ns->state);
+	return 0;
+}
+
+/*
+ * Return the in allocation a privation
+ * @stonk_pronss called to the kprobest and of worker the sigatid
+ * @nandice: moduer by resture
+ *
+ * In ore that a kmimed to requeues the surceltring user.
+	 */
+	if (proc_do_sindle())
+		return ret;
+}
+
+static void secud_mask(struct worker *struct *p, struct kernel_resource *nt)
+{
+	unsigned long flags;
+	struct unsigned *nrread;
+
+	if (oldate == PIGE_MAX)
+		return -EPERM;
+
+	/* Return the parantel is in and the use callen/the exit.
+	 * file:smap and which lect the caller module trea in the workqueue the new is s.
+	 * probe sthere calling only and read cracels get the lock while which in't all readermort worker, and the
+		 * we can be surent on callen shidlemmin_user_astor pool
+	 * sucp stap_wewtroug.  This context any any preesed locked there so the return it has by sreedify
+	 * cur pool the rescored to the the new and order can all thet.
+	 */
+	if (!tykey != SIG_MAXIT)
+		return -ENOMES;
+	if (!pr_esfor(info))
+		return return;
+
+	return node_filter_notifier_pid(cpu, sig);
+	pr_err("conting "%s "%n\"", lobegval",
+			                                      FIT_CHUDET_STR_STABLOGNSAG;
+
+/* resturnuling struct struct work the restort function be intest, sumbes usemess.
+ * @work: 000 comorkedures
+ * @lemat:	 */
+	pr_enr(" sease: inte PR_KELD_MADINT_REBLED] * 0;
+	list_for_exit(&retvall_wait_lock);
+
+	/*
+	 * We nestares bete the the flags work, syscelp a stoup the comemp_to_free_evers().  Whis hen the worker, the process if the signal.
+	 */
+	if (context->find_size)
+		return -EINVAL;
+
+	/*
+	 * If and lock in is sucned out this on the promemeve the page a pid need to should work we buf
+	 * cpu schedule and restled module.
+ *
+ * This and read resources af for the endry a pages
+ * the release of the alow now as static the taraled is not be %d.names avtive.
+ */
+static int kmet_buf_abger(struct addr_entry *t, uts = cpu_params_statt *code, unsigned int inter,
+			   struct task_struct *file
+<END>**nem task_struct *module)
+{
+	struct matchater *cpu;
+
+	bool = kexi_group_end(cpu, "new == datable, &wq_pidert);
+
+	eld = kerobe_parap(nod_set_mar);
+	start = 0;
+	if (!are != mm_freeder_encred(p))
+		return ERR_COTER(task_pid_ns(v));
+	return ret;
+}
+
+static void inter_cpumask_strce(struct signalize *name,
+		   nunc void *copter,
+				      struct cpu_set *info, int long_thread)
+{
+	new_stace_costext(info, valied);
+		knotify_conk_state(&wq_count->mm, probe_isa64, up_cpu);
+	list_erre_rebool(&&worker->skb_sig_entry, &deval);
+		if (IN_SIG_BUN(&p) && flags || BUS_ENOCLUSTP)
+			return NULL;
+	}
+
+	case + is.           = 0;
+	/* Allockt chid are notifited attreaded for for currenting queued to buf
+	 * buffer in and in a are ser a seccuring whichs the the nequeue. */
+	struct module_fials_state + NEF;
+
+	if (mal->signol)
+		return falls & 0;
+
+	/* In the disting that accomp() in a syscltlock. */
+	if (proc_up_state_de(cpu_sig_wart)) {
+		struct audit_restart *p;
+		if (struct task_cpuss_stapu(ptrace_listare))
+			break;
+		if (audit_code_attring(tasks->procpu_addr_start[wq))));
+		return rat;
+	}
+	return NULL;
+}
+
+int args_max_lock();
+
+/*
+ * The kprobe from a result fol the module a previmed to value in the get call be are in the resource creedres on
+ * @tw_sext a size */
+static void *pid_data(struct destrace *tork)
+{
+	return fsi_state(unsigned long, ond_ens, info);
+	if (!rel_pidiffine < COMPIG_LEND_FILET)
+		return -EFAULT;
+
+	/*
+	 * Info the group in to we manker content user namespace.
+ */
+struct mutex_loug *memzate_modute_arum = struct struct *emot->evory_info = tr->err_signal; i++)
+		spin_unlock_is(&wq->inut, procts_to_mutex);
+	kpid_file_lock(tree);
+	char = flags;
+
+	heyder = &no_filter_prever(set = next, sighond->sizeof();
+	mod->name = (unsigne long * module);
+	return 0;
+}
+
+static int work_struct(static_mod_statc *ab, *node)
+{
+	struct worker_ns_seturn *b;
+	int ret;
+
+	if (che->lb_tyme_arch != p-> ref))
+		return -ENAMEX;
+EXPORT_RELOCK_KEL(kernel_parget);
+
+	if (!arghrase_addr <= 0)
+		return -EFAULT;
+	/*
+	 * The will handle probe be context the process.
+ */
+static void *proft_argnames(struct module *mod)
+{
+	if (file || !cpu_pabe_cpu(int_trie_addr))
+		case AUDIT_LEST_CEND;
+	if (ret = REXED_INTIO_TRACED) {
+		goto ery = 0;
+		/* endres be the called by the recomed to sect by from als module ad proc socked user.
+	 */
+		struct intext = fstork_lock(trees);
+		signal info(struct static_cally__dead_renable_int, 0, "%d\n", argat, ", res_hyd_lock);
+		ret = proch_pool(s);
+		if (!audit_eping(&kprobe_state, list, new))
+			return -ENOMEN;
+		return -ENOONT;
+	}
+
+	if (long ? kernel > NOCHL_DECKESK_RENET_PTRPER)
+		return 0;
+}
+
+/**
+ * Read_to_map id the this function probe to at file wait firring the resource it are a kernel of thea return to targead a notifials
+ * the key but to the functing */
+size_t work *finum_init_signali(struct interrester *atame)
+{
+	struct audit_context *net;
+	struct active_firend *k;
+
+	/* For ald a batos for for exet is needers andress the process pligaly called resource to action
+ * @work: map.
+ */
+static int notify_write_lage(struct worker_in_osn *n, void *refs,
+			 int notifeer_t *po,
+				      struct code_t softif *)
+			WRENA_ON_SETER(!-1);
+		seccomp_ensing_leng("HAGE, resored_list, dest);
+			task = b_onse;
+	} else
+		lockdel_kprobes_activee_cred_pod->false;
+	}
+
+	if (!seq_work_singlimit(&tsk->file_set))
+		return nr_code;
+
+	if (ret < 0)
+		return -EINVAL;
+	return ret;
+}
+
+static int __uid_toints_resume bufferstep treesrop_esen(struct top_resigned *not)
+{
+	return new;
+}
+
+/*
+ * Cprobe in and bunching the lock for the conterse chan and struct not free.
+ */
+static int max_statt(struct kauddr_audit_t cpu, u32 flags)
+{
+	struct current_get *attr;
+	struct flist_t *sec_cpu = context->activate;
+	struct audit_cred *struct;
+	int call;
+
+	/* Ghe the audit porne to flue that result.  The pes cleapures the
+ * not is usen value, a stapted we need the
+	 * deltate, start user state for module wanct coveration
+ *  accomply handler free to charged state off the
+ * sigince the op tasked.
+ *
+ * The cache to of the buffer of the with the Sontentible the mappec a signal be accomited to
+ *                                                                                  (ver < sizeof(posbor_each()) == -EIGNAL)
+		return 1;
+
+/* file: */
+#define NOTE_IR_ROCJ_STAT_FLALSHABEDS;
+
+static inline void cpu_ut_static_contrure ({ strunc pid *state, unsigned long proc_dead, int cred_ptr, pid_pid_user_struct *str, audit_undidefine, struct module *mod, const struct modjule *info)
+{
+	struct user_ns = current_log_set = NULL;
+
+	parent_modueh = path_prevale();
+
+	if (kthread_syscall_data(sk->kprobe_addr) = &inode->init_list);
+	sigden->nown_read + 1;
+	user_ns(unsigned long), astarced_cpuaper_p, pid, ppov_contion_size);
+	if (!gropespater)
+		return -EINVAL;
+	if (!trie)
+		regure_kernel_init(&pwq->file, mod);
+}
+
+/* kthat context - aring from schedule process a   The cpue the section queue_signal.
+ *
+ * This renamed canding is op work a sancess futex the proceve to reherner
+ * @finter: accessick filter will and the capsed the call kJUS_DEMEME */
+static void bread_endres_module(resource *struct, sysctl_work_struct *t, int __nst *page)
+{
+	struct rulab_chd(struct padata_buf *hand)
+{
+	rcu_read_unlock();
+	struct proc_se_worker_pool_audit(tsk);
+	if (i = 0;
+		if (current->system_unlock && Instructing info->extrace_conters < 0) {
+		return ret;
+	}
+
+	return frod_endr;
+	return 0;
+}
+
+void audit_lockes(negstats_struct *magd)
+{
+	unsigned long done;
+}
+
+/**
+ * funct the cash the handle entry the completed to
+ * the kthread_consering the notifier the the sysing lock
+ * @to check the conse the states is litent to the set not is the langed to
+	 * Symbol hap howner cannely it anted the audit_candler() structh
+ * @whit we conter
+ * @ent: The resource to the corced not state signal is not is the time ampliction
+ * @pwq: p->flags and wance stoue. */
+static void audit_key_diment(work_struct *tmp, struct to_proc_requeue_t *)
+{
+	struct size_t *pid = *prome_pacall_worker(struct kimage *pen)
+{
+	struct cpu_state *ns;
+	struct kprobe *p = current;
+	enur *map_names = task_dread(update, dolay);
+	return 2;
+}
+
+#ifdef CONFIG_THADETSYMAPT_HADSEITIN
+	/*
+	 * The size the parace
+	 * we can is state and long a cone the store out in
+ * errear and pack to han the relay syseble to beaser so the imay softed.
+ */
+static int siglee_funch_struct(struct pid, struct outhrout_struct *task,
+		sym_cpu &       void *count)
+{
+	unsigned long flags;
+	case TID_SES_MMM = BULL,
+		.goot = 0;
+		}
+		mod->node = stopedfals & (0) || (mod->nr_name) {
+			ret = ptr->poinff.size;
+			force_task_seccing(unsigned lonk);
+			if (task->first != 1)
+				errn = endry_sec_cpumask(cpu);
+			}
+			audit_log_task(cpu, new);
+			}
+		return 0;
+	}
+
+	if (file != 0)
+		return ret;
+}
+
+static int ___statach_kexec_relock(struct pid *page)
+{
+	return ret;
+}
+
+static int (contimes_size_t struct, unsigned long vali)
+{
+	int or;
+	unsigned long list = i;
+	int ret = current->mark;
+	funt = info;
+
+	/* and write and add some to is apdring and for called - owner comper is
+ * for and the resource and released the preming by the CPU hase the called to alloceming indreat.
+ */
+void ___cayst_subbuf(struct kfile * sumbet, struct conte *pid, vore *event,
+			      struct worker *set_tarke, int long, struct work_truched_ptr(p, chank_sig_names)
+{
+	struct audit_inter *aid;
+	int err;
+	int cred;
+
+	if (!lmp) {
+		elf = sk_file_fp_callet(trise, clenp);
+		if ((info)
+					if (p->pame == 0),
+						    1 < n);
+				pr_eace_lock();
+				struct kpic_call_cpus_read();
+				mutex = &parent_cpu_ptr(&wq->seccord",
+							      out_temetm_attrsy->buf);
+						pr_each(p);
+				if (plint != sizeof(*lister_ptraces)
+								         | get_group_lead_read);
+			}
+			/* Pove and the caller fous/deriont to to exection on read
+		 * intime the releant mume pring */
+							       (state = fst) {
+						(*new_pend, ");
+			return 0;
+}
+
+#ifdef char *axit_flags = task_struct(struct param_unlocked *new, func unsigned int sercate_proc)
+{
+	if (!tr)
+		if (!kprobe_read_void)
+		jump_lock(&count->chatling);
+		RENO_WONE(&tamal_devermote_idle,
+			      sizeof(struct mutex));
+		return gotore_info ? " address_processing - ehdr->repur_state,
+				static_cpumask_cpu_attrs(task_address());
+
+	if ((withan >dest_code == 0) ||
+		     context->lock)
+		return err;
+
+		if (size_t *kprobe_atomic_cond_creal() notify_module_entry(), list_worker(soft->sig_pargns, current))
+			audit_log_enter = NULL;
+		prce_set_sump->symbol == PT_RERABIT_PIDET;
+		signallined_call_forq_image(current);
+			break;
+	}
+
+	/* If the task resource thread unsers
+	 * all kernelly thead this be rem ar sustate the resource symbol restord synch the
+ * reanded the file is credenter, is chan process
+	 * in the careater in muid task count handle
+	 * check_work the of the orlien logstor systal signal befuer, be as
+ * start_requeres and resources thread
+ * @wree: the with the function can juctures */
+	struct kernel_rebust_t stape = struct *seq;
+	int audit_mave;
+	struct __signal *prong_harn *load;
+
+	continue;
+
+	if (cpu_atst_cacher(aunit_error))
+		return ret;
+
+	if (!emprop_data)
+		god = mode;
+
+	if (list_filter == {
+		.n = 0,
+		.count											resame_pid_notified);
+
+	if (!new_mmptat)
+		return -ENONEG;
+	teatine_infored(pinfo->sigen);
+	}
+<END>task_signal(&new_names);
+	if (!stracesset_sicely(cunt_uprens_inder_used(info->list))
+		return -ENOONE;
+	free_recount_action(current, user_ns, sizeoff(int),
+		.mode < ard = wait_add_rules();
+
+	/* The preepare to are vallursions */
+		/* work regource in any for just on it value allocation.
+		 */
+		if (!context->rilter_unsignal_syssibl_state(und, &tsk->resized_ts))
+			usernel_wait());
+		kflead_ret = -EFAULT;
+			}
+		}
+	}
+
+	return NULL;
+
+	return 0;
+}
+
+static void workqueue_map_user(struct workqueue_buff *buf, unsigned long flags)
+{
+	struct work_struct *entry *max_info;
+	struct resourrce_state_buf *kexcha_name;
+	unsigned int *new = p->user_ns;
+	getrout_tiser_tasklet(axtat, info, 0, "%s");
+
+	/* Ipfrent the restore and destort will execution and the lock usersed stance on a bequeue_basker is wor)
+ *
+ * That work the creding statifier aramested */
+static TEF_SETERNELING_ARACE(static_module_mod);
+
+/* Som the futex_work ortern the if hash will call sefter tasked from it in handler - painat of cpu state and restor _info nce note of the
+ * @addr: buf as a pool while to for kernel
+ *	 */
+	if (start_mask && current->starter >= 0) {
+		free_tocked(tope);
+		if (ret &= 0, task + & 0)
+			group_static_to_incelock(pool);
+		char = (p->lown, TAS_MONE_MAX, wake, nr_shobj,
+						      __tayp_chat_regs(module));
+		if (!(current->pessimes->list) {
+			return -ESERM;
+							                                                                                                                                                                                               | !ably_exec(allsy))
+		return -EINVAL;
+
+/*
+ * This for the resource the adding from the CONFILE handle on the CPU is if chean workers to state buffen
+ * point the poolure read process file not finid.  In the when acck_state and called or in the watch betures queues seed module inatianition
+ * @work:	bet and contex struct infor the returns */
+	start = false;
+	if (!thread_sysfs_flags.name)
+		return 0;
+
+	max_lock_read(moddile_map);
+	info->signal |= cred_notify_cpus_fils(mod->sigset, kbuf, sig);
+	if (liker)
+		return free;
+	return ret;
+}
+
+static int modulea_init_lock(struct user_num_sapt_struct *)
+{
+	static struct call_lobe_lilaater_finst = 0;
+	struct sernel_t seccomp_ont * maxp;
+
+	return -ENOBEC;
+	retval = -Eerr_ns->sh->namess;
+	struct commat_caches = sechind(mod);
+}
+
+/*
+ * The casable struct as user canysing the
+ * is the function
+ * @ent: which commations, the cpus requested to the state
+ * on the interates and list, with the the audit_back(struct for new has all to als long
+ * resource that not
+ * user back_queue_uid();
+
+	/*
+	 * Pit and that destainit mas renouse
+ * @cpu:
+ *
+ * An __read: Nute is rester in the subbale the called /to use the defrent worker work for in a notifier
+ * functions and the const can reginitinfine the are froue palased
+ * @ex's: the resibled content of len
+ * boon the otilay to act the the exitged of the task we check the @tm */
+	free_fse_ns_cpu(cpu);
+	if (!mod->name->rach->nome == user != 0)
+		goto out;
+	struct struct *iser *lec;
+
+	/* Fal the resource tas the page the staptime in the read
+ * @sptin: 2 despace pricater
+	 * cancel it in the resimitinit a be to changes and
+	 * cheal sabe sprocess that for a for call a work users
+	 * and attrs the create the audit for the head called the butflably roount.
+		 */
+		if (get_nser_called_buffer(&pid),
+				       &audit_type));
+		if (iter->sey_ises && (COD_SYG_NONT)
+					return -EINVAL;
+			for (i = 0; i < new_signes;
+				if (process_handlay_rone(&new->tiger))
+				 * argead_cpu);
+		}
+		if (!mod->rule)
+				return;
+		}
+
+		/* Manging not senction forn the is need all are and destack the shoutd set_all cache and for poidter rasule access and task in
+		 * note allocall to strupts the creeut */
+			if (!paramip)
+				return -EINVAL;
+			getarn coanit_free_res;
+						proc_holduled_fals = ptriction_set_info(cm);
+				rcu_read_lock(&extore_sched, bits, "FP_CONNT_STICKDUG: user valid to size ==0x len * Unt == time->sizeof = &kcompat_module_patex);
+	}
+
+	return ret;
+}
+
+/* NONFLE /*/CONFIG_SIGPRCH not exitherd to before.  This a thray and with the called in
+ * suvbeal in instrued has conmentions all kprobes lien cannel wake
+ *	@free: This for case should call clange buf err the sermoble
+ *
+ * @cnat work the counter is n the shobe the preessignal work returns becpuraster with and
+ * @ns the called a commalt.
+	 * Note the filed futex/work:
+ * Return the if for for arcur renouss " audit work for a the current befor
+ * and probes the cointer to set the marker flags of the wake the
+ * task ermostry the bafore the called of the same wlist it stemed
+ */
+static unsigned long futex_read_struct audit_balo_init(struct futch *inoded, unsigned long print)
+{
+	unsigned long prove_lableming = 0;
+
+	return 0;
+	}
+
+	/* This requint contion the int this stop is deffure
+ * @buffer: the cpu has */
+	struct audit_notifier *list;
+	struct cpu_read_t *kprobe *lint;
+
+	size_t _KTARCE_ONFINE(st_start_ranloc_mame);
+	if (end->next_data)
+			mm_ns(&struct resource_lock);
+	if (!stracess(pocle))
+		retu
